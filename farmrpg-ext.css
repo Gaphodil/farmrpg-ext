@@ -100,6 +100,7 @@
 .farmrpg-ext-quickaction {
     border-width: 3px;
     border-color: #717073;
+    padding: 3px;
 }
 
 .ext-layout-dark .farmrpg-ext-quickaction {
