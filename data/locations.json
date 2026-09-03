@@ -1,19 +1,19 @@
 [
   {
     "items": [
-      "Shimmer Quartz",
       "Coal",
-      "Ancient Coin",
-      "Runestone 09",
-      "Horn",
       "Sandstone",
-      "Runestone 13",
-      "Giant Centipede",
       "Salt Rock",
-      "Medium Chest 02",
-      "Large Chest 02",
+      "Horn",
+      "Shimmer Quartz",
+      "Ancient Coin",
+      "Giant Centipede",
       "Ruby Scorpion",
-      "Orange Gecko"
+      "Runestone 09",
+      "Runestone 13",
+      "Orange Gecko",
+      "Large Chest 02",
+      "Medium Chest 02"
     ],
     "id": "6",
     "type": "explore",
@@ -25,13 +25,13 @@
       "Iron",
       "Wood",
       "Stone",
-      "Mushroom",
       "Unpolished Shimmer Stone",
+      "Mushroom",
       "Lemon Quartz",
-      "Pocket Watch",
-      "Lima Bean",
+      "Tea Leaves",
       "Horned Beetle",
-      "Tea Leaves"
+      "Pocket Watch",
+      "Lima Bean"
     ],
     "id": "4",
     "type": "explore",
@@ -42,14 +42,14 @@
     "items": [
       "Stone",
       "Glass Orb",
-      "Ancient Coin",
-      "Diamond",
-      "Magicite",
-      "Moonstone",
       "Emberstone",
       "Prism Shard",
+      "Ancient Coin",
+      "Moonstone",
+      "Magicite",
       "Runestone 17",
-      "Large Chest 01"
+      "Large Chest 01",
+      "Diamond"
     ],
     "id": "9",
     "type": "explore",
@@ -60,20 +60,32 @@
     "items": [
       "Wood",
       "Mushroom",
-      "Arrowhead",
-      "Hide",
-      "Bird Egg",
       "Straw",
+      "Hide",
       "Antler",
+      "Arrowhead",
+      "Bird Egg",
+      "Fire Ant",
       "Gold Feather",
       "Gold Leaf",
-      "Fire Ant",
       "Frog"
     ],
     "id": "7",
     "type": "explore",
     "name": "Forest",
     "image": "/img/items/trees.png"
+  },
+  {
+    "items": [
+      "Mushroom",
+      "Piece 30",
+      "Gary's Diary Page 36",
+      "Gary's Diary Page 77"
+    ],
+    "id": "20",
+    "type": "explore",
+    "name": "Gary's Crushroom",
+    "image": "/img/items/gcave.png"
   },
   {
     "items": [
@@ -105,11 +117,10 @@
       "Fern Leaf",
       "Purple Flower",
       "Amethyst",
+      "Caterpillar",
       "Strange Letter",
       "Runestone 14",
-      "Caterpillar",
-      "Medium Chest 01",
-      "Snowball"
+      "Medium Chest 01"
     ],
     "id": "3",
     "type": "explore",
@@ -119,17 +130,17 @@
   {
     "items": [
       "Sand",
-      "Pulley",
-      "Copper Wire",
+      "Scrap Metal",
+      "Scrap Wire",
+      "Machine Part",
+      "Transistor",
+      "Prickly Pear",
       "Broken Pipe",
       "Small Bolt",
-      "Prickly Pear",
-      "Transistor",
-      "Machine Part",
-      "Onyx Scorpion",
-      "Scrap Wire",
-      "Scrap Metal",
+      "Pulley",
+      "Copper Wire",
       "Monster Skull",
+      "Onyx Scorpion",
       "Langstaff Crest"
     ],
     "id": "13",
@@ -140,22 +151,22 @@
   {
     "items": [
       "Wood",
-      "Mushroom",
       "Fern Leaf",
       "Acorn",
+      "Blue Feathers",
+      "Mushroom",
+      "3-leaf Clover",
+      "Straw",
       "Sweet Root",
       "Unpolished Ruby",
-      "Straw",
-      "Runestone 05",
-      "Blue Feathers",
-      "Gold Feather",
-      "3-leaf Clover",
-      "4-leaf Clover",
-      "Amber",
-      "Shiny Beetle",
       "Pine Cone",
+      "4-leaf Clover",
+      "Shiny Beetle",
       "Spider",
-      "Frog"
+      "Runestone 05",
+      "Gold Feather",
+      "Frog",
+      "Amber"
     ],
     "id": "5",
     "type": "explore",
@@ -170,12 +181,12 @@
       "Coal",
       "Unpolished Emerald",
       "Carbon Sphere",
+      "Magna Quartz",
       "Gold Feather",
-      "Runestone 19",
       "Bacon",
-      "Dragon Skull",
       "Small Chest 02",
-      "Magna Quartz"
+      "Runestone 19",
+      "Dragon Skull"
     ],
     "id": "8",
     "type": "explore",
@@ -210,16 +221,40 @@
   },
   {
     "items": [
+      "Bamboo",
+      "Swamp Thistle",
+      "Scrap Cloth",
+      "Sinkroot",
+      "Mudcap",
+      "Bogslug",
+      "Amber Mire Bloom",
+      "Glowshroom",
+      "Swamp Algae",
+      "Swamp Gourd",
+      "Mist Lily",
+      "Shadow Bloom",
+      "Sporefly",
+      "Water Lily",
+      "Re'taw",
+      "U'ral Talisman"
+    ],
+    "id": "22",
+    "type": "explore",
+    "name": "Sinking Swamp",
+    "image": "/img/items/swamp.png"
+  },
+  {
+    "items": [
       "Wood",
       "Nails",
       "Stone",
       "Mushroom",
       "Bone",
-      "Runestone 04",
       "Wooden Mask",
-      "Model Ship",
       "Grab Bag 02",
-      "Skeleton Key"
+      "Runestone 04",
+      "Skeleton Key",
+      "Model Ship"
     ],
     "id": "1",
     "type": "explore",
@@ -230,16 +265,15 @@
     "items": [
       "Wood",
       "Stone",
-      "Aquamarine",
       "Feathers",
       "Mushroom",
+      "Aquamarine",
       "Apple",
+      "Snail",
       "Dice",
       "Spectacles",
-      "Skull Coin",
-      "Snail",
       "Small Chest 01",
-      "Snowball"
+      "Skull Coin"
     ],
     "id": "2",
     "type": "explore",
@@ -248,21 +282,21 @@
   },
   {
     "items": [
-      "Apple",
-      "Orange",
-      "Lemon",
-      "Slimestone",
       "Oak",
+      "Slimestone",
       "Salt Rock",
-      "Blue Gel",
       "Unpolished Garnet",
+      "Blue Gel",
+      "Apple",
       "Red Berries",
       "Striped Feather",
       "Thorns",
       "Sour Root",
-      "Raptor Claw",
+      "Orange",
+      "Lemon",
       "Herbs",
-      "Raptor Egg"
+      "Raptor Egg",
+      "Raptor Claw"
     ],
     "id": "10",
     "type": "explore",
@@ -271,15 +305,15 @@
   },
   {
     "items": [
-      "Trout",
       "Bone Fish",
       "Sunfish",
+      "Trout",
       "Blue Catfish",
+      "Globber",
+      "Gold Catfish",
       "Old Boot",
       "Glass Bottle",
-      "Globber",
-      "Runestone 12",
-      "Gold Catfish"
+      "Runestone 12"
     ],
     "id": "6",
     "type": "fishing",
@@ -288,23 +322,23 @@
   },
   {
     "items": [
+      "Conch Shell",
       "Clam Shell",
       "Starfish",
       "Clownfish",
+      "Red Starfish",
+      "Blue Tiger Fish",
       "Pearl",
-      "Conch Shell",
-      "Marlin",
       "Puffer",
       "Stingray",
-      "MIAB",
-      "Ruby Fish",
-      "Blue Tiger Fish",
-      "Red Starfish",
       "Seahorse",
-      "Magic Conch Shell",
       "Goldray",
+      "Marlin",
+      "Ruby Fish",
+      "MIAB",
       "Spiked Shell",
-      "Crab Claw"
+      "Crab Claw",
+      "Magic Conch Shell"
     ],
     "id": "7",
     "type": "fishing",
@@ -316,13 +350,13 @@
       "Drum",
       "Yellow Perch",
       "Largemouth Bass",
-      "Fish Bones",
       "Trout",
-      "Catfish",
       "Carp",
-      "Runestone 02",
+      "Gold Trout",
+      "Catfish",
+      "Fish Bones",
       "Flier",
-      "Gold Trout"
+      "Runestone 02"
     ],
     "id": "2",
     "type": "fishing",
@@ -334,13 +368,13 @@
       "Drum",
       "Yellow Perch",
       "Largemouth Bass",
-      "Fish Bones",
       "Bluegill",
-      "Runestone 03",
+      "Goldgill",
+      "Fish Bones",
       "Grab Bag 01",
-      "Square Key",
       "Water Lily",
-      "Goldgill"
+      "Runestone 03",
+      "Square Key"
     ],
     "id": "3",
     "type": "fishing",
@@ -349,7 +383,6 @@
   },
   {
     "items": [
-      "Grab Bag 08",
       "Frosteye",
       "Crowfish",
       "Bullfish",
@@ -357,8 +390,9 @@
       "Sea Crest",
       "Seeker",
       "Stone Jelly",
-      "Gold Sea Crest",
       "Ice Shark",
+      "Gold Sea Crest",
+      "Grab Bag 08",
       "Frost Snapper Shell"
     ],
     "id": "12",
@@ -372,9 +406,9 @@
       "Flamejack",
       "Redgill",
       "Flarefin",
-      "Strange Ring",
+      "Goldfin",
       "Treasure Key",
-      "Goldfin"
+      "Strange Ring"
     ],
     "id": "9",
     "type": "fishing",
@@ -387,12 +421,12 @@
       "Yellow Perch",
       "Largemouth Bass",
       "Crappie",
-      "Fish Bones",
       "Trout",
-      "Flier",
       "Globber",
-      "Runestone 15",
-      "Gold Flier"
+      "Fish Bones",
+      "Flier",
+      "Gold Flier",
+      "Runestone 15"
     ],
     "id": "4",
     "type": "fishing",
@@ -408,9 +442,9 @@
       "Spiral Shell",
       "Serpent Eel",
       "Ruby Coral",
-      "Tribal Staff",
       "Gold Coral",
-      "Gold Boot"
+      "Gold Boot",
+      "Tribal Staff"
     ],
     "id": "10",
     "type": "fishing",
@@ -420,16 +454,16 @@
   {
     "items": [
       "Purple Butterfly Fish",
-      "Pirate Hook",
-      "Mystical Chest 02",
-      "Large Chest 03",
       "Crab",
       "Green Barracuda",
       "Mulberry Snapper",
       "Jumbo Fish",
-      "Speckled Grouper",
       "Orcafish",
-      "Gold Jelly"
+      "Speckled Grouper",
+      "Gold Jelly",
+      "Mystical Chest 02",
+      "Large Chest 03",
+      "Pirate Hook"
     ],
     "id": "11",
     "type": "fishing",
@@ -438,17 +472,41 @@
   },
   {
     "items": [
+      "Slimeback",
+      "Splatfish",
+      "Bog Barnacle",
+      "Magenta Growth",
+      "Boghead Snapper",
+      "Reaver Claw",
+      "Blubberfish",
+      "Slime Egg Shell",
+      "Slobster",
+      "Glass Eye Urchin",
+      "Toxic Tendrils",
+      "Gold Ring",
+      "Tin Can",
+      "Gold Slimeback",
+      "Mini Slime Squid",
+      "Lavos Shard"
+    ],
+    "id": "14",
+    "type": "fishing",
+    "name": "Sinking Swamp",
+    "image": "/img/items/swamp.png"
+  },
+  {
+    "items": [
+      "Small Prawn",
       "Green Chromis",
       "Blue Crab",
-      "Small Prawn",
-      "Blue Shell",
-      "Jellyfish",
-      "Blue Sea Bass",
-      "MIAB",
-      "Mussel",
       "Mackerel",
-      "Seaweed",
-      "Gold Sea Bass"
+      "Blue Shell",
+      "Blue Sea Bass",
+      "Jellyfish",
+      "Mussel",
+      "Gold Sea Bass",
+      "MIAB",
+      "Seaweed"
     ],
     "id": "5",
     "type": "fishing",
@@ -459,11 +517,11 @@
     "items": [
       "Drum",
       "Yellow Perch",
+      "Gold Drum",
       "Fish Bones",
-      "Runestone 08",
       "Cogwheel",
-      "Small Key",
-      "Gold Drum"
+      "Runestone 08",
+      "Small Key"
     ],
     "id": "1",
     "type": "fishing",
@@ -472,27 +530,129 @@
   },
   {
     "items": [
-      "Marlin",
-      "Jellyfish",
-      "Blue Sea Bass",
-      "Stingray",
-      "MIAB",
-      "Green Jellyfish",
       "Skipjack",
-      "Giant Squid",
-      "Shrimp",
-      "Ruby Fish",
       "Mackerel",
-      "Fluorifish",
-      "Octopus",
-      "Runestone 18",
-      "Diving Helmet",
+      "Shrimp",
+      "Green Jellyfish",
       "Goldjack",
-      "Sea Dragon"
+      "Blue Sea Bass",
+      "Jellyfish",
+      "Stingray",
+      "Fluorifish",
+      "Ruby Fish",
+      "Marlin",
+      "Octopus",
+      "Giant Squid",
+      "MIAB",
+      "Sea Dragon",
+      "Runestone 18",
+      "Pink Jelly",
+      "Diving Helmet"
     ],
     "id": "8",
     "type": "fishing",
     "name": "Vast Ocean",
     "image": "/img/items/ocean.png"
+  },
+  {
+    "items": [
+      "Embershard",
+      "Magmastone",
+      "Unpolished Flarite",
+      "Bone 05",
+      "Pitviper Tail",
+      "Brain Fungus",
+      "Fossilized Shell",
+      "Broken Sword",
+      "Runestone 27"
+    ],
+    "id": "4",
+    "type": "mining",
+    "name": "Ember Caverns",
+    "image": "/img/items/embercaverns.png"
+  },
+  {
+    "items": [
+      "Mossy Stone",
+      "Jadeite",
+      "Unpolished Pyrite",
+      "Bone 06",
+      "Blood Crystal",
+      "Nightshade Cap",
+      "Rune Shard",
+      "Broken Bangle",
+      "Fenrir's Coin"
+    ],
+    "id": "5",
+    "type": "mining",
+    "name": "Fenrir's Den",
+    "image": "/img/items/fenrircave.png"
+  },
+  {
+    "items": [
+      "Fairy Crystal",
+      "Plum Ore",
+      "Lapis Lazuli",
+      "Bone 02",
+      "Oceanite",
+      "Bone 03",
+      "Purple Mushroom",
+      "Ram Skull 01",
+      "Fossilized Frog"
+    ],
+    "id": "2",
+    "type": "mining",
+    "name": "Highland Hollow",
+    "image": "/img/items/highlandhollow.png"
+  },
+  {
+    "items": [
+      "Gravicite",
+      "Unpolished Peridot",
+      "Veinshard",
+      "Gravity Orb",
+      "Mossroom",
+      "Green Gel",
+      "Mossy Cog",
+      "Mossy Bone"
+    ],
+    "id": "6",
+    "type": "mining",
+    "name": "Mossrock Mine",
+    "image": "/img/items/Moss_cave.png"
+  },
+  {
+    "items": [
+      "Pyredrop",
+      "Sunstone",
+      "Stone Shell",
+      "Bone 04",
+      "Orange Calcite",
+      "Fire Crystal",
+      "Red Mushrooms",
+      "Fossilized Leaf",
+      "Sol Orb"
+    ],
+    "id": "3",
+    "type": "mining",
+    "name": "Sol Grotto",
+    "image": "/img/items/solgrotto.png"
+  },
+  {
+    "items": [
+      "Esperium",
+      "Briomine",
+      "Green Halite",
+      "Calcifite",
+      "Unpolished Aquacite",
+      "Bone Fragments",
+      "Cave Mushroom",
+      "Bird Skull 01",
+      "Fossilized Print"
+    ],
+    "id": "1",
+    "type": "mining",
+    "name": "Spring Cave",
+    "image": "/img/items/springcave.png"
   }
 ]
