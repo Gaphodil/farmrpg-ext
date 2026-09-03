@@ -25,6 +25,7 @@ import { fetchCommunityCenter, setupCommunityCenter } from './lib/communityCente
 import { setupBorgens } from './lib/borgen.js'
 import { fetchExchangeCenter, setupExchangeCenter } from './lib/exchange.js'
 import { setupNpcFriendship } from './lib/npcFriendship.js'
+import { setupMining } from './lib/mining.js'
 
 /**
  * @typedef {{
@@ -315,6 +316,7 @@ const main = async () => {
     setupBorgens(globalState)
     setupExchangeCenter(globalState)
     setupNpcFriendship(globalState)
+    setupMining(globalState)
 
     // Kick off some initial data population.
     renderSidebarFromGlobalState()
