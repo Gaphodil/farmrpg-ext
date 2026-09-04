@@ -1234,7 +1234,12 @@
     "firstSeen": 1788477076411,
     "name": "Gainite",
     "id": "1184",
-    "image": "/img/items/gainite.png"
+    "image": "/img/items/gainite.png",
+    "openable": false,
+    "sellPrice": 2147483647,
+    "craftPrice": 1,
+    "rarity": "Very Rare",
+    "mastery": true
   },
   {
     "firstSeen": 1788477047591,
@@ -1413,6 +1418,15 @@
     "name": "Fuzzy Chick 01",
     "id": "1212",
     "image": "/img/items/fuzzychick1pink.png"
+  },
+  {
+    "firstSeen": 1788481466185,
+    "id": "1213",
+    "name": "Corn Bread",
+    "image": "/img/items/cornbread.png",
+    "openable": false,
+    "sellPrice": 3000000,
+    "rarity": "Very Rare"
   },
   {
     "firstSeen": 1788477047764,
@@ -1601,7 +1615,13 @@
     "firstSeen": 1788477048098,
     "name": "Sea Turtle",
     "id": "1240",
-    "image": "/img/items/afk_8514.png?1"
+    "image": "/img/items/afk_8514.png?1",
+    "openable": false,
+    "event": true,
+    "sellPrice": 15000,
+    "xp": 12000,
+    "rarity": "Very Rare",
+    "mastery": true
   },
   {
     "firstSeen": 1788477047798,
@@ -1637,13 +1657,21 @@
     "firstSeen": 1788477047732,
     "name": "Cicada",
     "id": "1247",
-    "image": "/img/items/cicada.png?1"
+    "image": "/img/items/cicada.png?1",
+    "openable": false,
+    "event": true,
+    "rarity": "Very Rare",
+    "mastery": true
   },
   {
     "firstSeen": 1788477047794,
     "name": "Cicada Shell",
     "id": "1248",
-    "image": "/img/items/cicadashell.png"
+    "image": "/img/items/cicadashell.png",
+    "openable": false,
+    "event": true,
+    "rarity": "Very Rare",
+    "mastery": true
   },
   {
     "firstSeen": 1788477047557,
@@ -1718,7 +1746,10 @@
     "firstSeen": 1788477047656,
     "name": "Stone Fragment",
     "id": "1258",
-    "image": "/img/items/stonefragment.png"
+    "image": "/img/items/stonefragment.png",
+    "openable": false,
+    "event": true,
+    "rarity": "Very Rare"
   },
   {
     "firstSeen": 1788477048298,
@@ -2298,7 +2329,11 @@
     "firstSeen": 1788477047600,
     "name": "Swamp Puzzle",
     "id": "1352",
-    "image": "/img/items/puzzle3.png"
+    "image": "/img/items/puzzle3.png",
+    "openable": false,
+    "craftPrice": 1000000,
+    "xp": 1,
+    "rarity": "Very Rare"
   },
   {
     "firstSeen": 1788477047953,
@@ -2911,7 +2946,13 @@
     "firstSeen": 1788477076402,
     "name": "Fancy Pillow",
     "id": "1439",
-    "image": "/img/items/Fancy_pillow.png"
+    "image": "/img/items/Fancy_pillow.png",
+    "openable": false,
+    "sellPrice": 400000,
+    "craftPrice": 70000,
+    "xp": 70000,
+    "rarity": "Uncommon",
+    "mastery": true
   },
   {
     "name": "Carbon Sphere",
@@ -3367,31 +3408,49 @@
     "firstSeen": 1788477047676,
     "name": "Spring Cave Charm",
     "id": "1523",
-    "image": "/img/items/Spring_cave_Charm.png"
+    "image": "/img/items/Spring_cave_Charm.png",
+    "openable": false,
+    "rarity": "Very Rare"
   },
   {
     "firstSeen": 1788477047639,
     "name": "Highland Hollow Charm",
     "id": "1524",
-    "image": "/img/items/Fairy_crystal_charm.png"
+    "image": "/img/items/Fairy_crystal_charm.png",
+    "openable": false,
+    "rarity": "Very Rare"
   },
   {
     "firstSeen": 1788477047640,
     "name": "Sol Grotto Charm",
     "id": "1525",
-    "image": "/img/items/Stone_shell_charm.png"
+    "image": "/img/items/Stone_shell_charm.png",
+    "openable": false,
+    "rarity": "Very Rare"
   },
   {
     "firstSeen": 1788477047576,
     "name": "Ember Caverns Charm",
     "id": "1526",
-    "image": "/img/items/Ancient_snail_charm.png"
+    "image": "/img/items/Ancient_snail_charm.png",
+    "openable": false,
+    "rarity": "Very Rare"
   },
   {
     "firstSeen": 1788477047576,
     "name": "Fenrir's Den Charm",
     "id": "1527",
-    "image": "/img/items/Jadeite_fenrir.png"
+    "image": "/img/items/Jadeite_fenrir.png",
+    "openable": false,
+    "rarity": "Very Rare"
+  },
+  {
+    "firstSeen": 1788480184399,
+    "id": "1528",
+    "name": "Mossrock Mine Charm",
+    "image": "/img/items/Marimo_charm.png",
+    "openable": false,
+    "rarity": "Very Rare"
   },
   {
     "name": "Runestone 07",
@@ -3424,7 +3483,12 @@
     "firstSeen": 1788477047752,
     "name": "Heavy Pickaxe",
     "id": "1537",
-    "image": "/img/items/heavypickaxe.png"
+    "image": "/img/items/heavypickaxe.png",
+    "openable": false,
+    "sellPrice": 12000,
+    "craftPrice": 2500,
+    "xp": 5000,
+    "mastery": true
   },
   {
     "firstSeen": 1788477047578,
@@ -3445,49 +3509,110 @@
     "firstSeen": 1788477047726,
     "name": "Gravicite",
     "id": "1540",
-    "image": "/img/items/Mossy_jade.png"
+    "image": "/img/items/Mossy_jade.png",
+    "openable": false,
+    "sellPrice": 1750,
+    "xp": 600,
+    "mastery": true
   },
   {
     "firstSeen": 1788477047712,
     "name": "Unpolished Peridot",
     "id": "1541",
-    "image": "/img/items/unperidot.png"
+    "image": "/img/items/unperidot.png",
+    "openable": false,
+    "sellPrice": 3500,
+    "xp": 850,
+    "rarity": "Common",
+    "mastery": true
   },
   {
     "firstSeen": 1788477047701,
     "name": "Veinshard",
     "id": "1542",
-    "image": "/img/items/Mossy_shard.png"
+    "image": "/img/items/Mossy_shard.png",
+    "openable": false,
+    "sellPrice": 6000,
+    "xp": 850,
+    "rarity": "Common",
+    "mastery": true
   },
   {
     "firstSeen": 1788477047690,
     "name": "Mossroom",
     "id": "1543",
-    "image": "/img/items/Mossy_shroom.png"
+    "image": "/img/items/Mossy_shroom.png",
+    "openable": false,
+    "sellPrice": 9500,
+    "xp": 325,
+    "rarity": "Common",
+    "mastery": true
   },
   {
     "firstSeen": 1788477047708,
     "name": "Green Gel",
     "id": "1544",
-    "image": "/img/items/greengel.png"
+    "image": "/img/items/greengel.png",
+    "openable": false,
+    "sellPrice": 15000,
+    "xp": 600,
+    "rarity": "Common",
+    "mastery": true
   },
   {
     "firstSeen": 1788477047686,
     "name": "Mossy Cog",
     "id": "1545",
-    "image": "/img/items/Mossy_gear_.png"
+    "image": "/img/items/Mossy_gear_.png",
+    "openable": false,
+    "sellPrice": 35000,
+    "xp": 600,
+    "rarity": "Common",
+    "mastery": true
   },
   {
     "firstSeen": 1788477047648,
     "name": "Mossy Bone",
     "id": "1546",
-    "image": "/img/items/Mossy_bone.png"
+    "image": "/img/items/Mossy_bone.png",
+    "openable": false,
+    "sellPrice": 19000,
+    "xp": 900,
+    "rarity": "Common",
+    "mastery": true
   },
   {
     "firstSeen": 1788477047696,
     "name": "Gravity Orb",
     "id": "1547",
-    "image": "/img/items/Mossy_orb.png"
+    "image": "/img/items/Mossy_orb.png",
+    "openable": false,
+    "sellPrice": 50000,
+    "xp": 1000,
+    "rarity": "Common",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788480152920,
+    "id": "1548",
+    "name": "Ancient Rune",
+    "image": "/img/items/Mossy_rune.png",
+    "openable": false,
+    "sellPrice": 75000,
+    "xp": 1500,
+    "rarity": "Common",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788480176747,
+    "id": "1549",
+    "name": "Fossilized Viper",
+    "image": "/img/items/Mossy_fossil.png",
+    "openable": false,
+    "sellPrice": 100000,
+    "xp": 2500,
+    "rarity": "Common",
+    "mastery": true
   },
   {
     "name": "Runestone 09",
@@ -3496,6 +3621,28 @@
     "sellPrice": 9000,
     "xp": 9000,
     "rarity": "Rare",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788480195439,
+    "id": "1550",
+    "name": "Ruined Ether Hammer",
+    "image": "/img/items/Mossy_jackhammer.png",
+    "openable": false,
+    "sellPrice": 250000,
+    "xp": 5000,
+    "rarity": "Common",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788480165548,
+    "id": "1551",
+    "name": "Ruined Ether Drill",
+    "image": "/img/items/Mossy_drill.png",
+    "openable": false,
+    "sellPrice": 400000,
+    "xp": 7500,
+    "rarity": "Uncommon",
     "mastery": true
   },
   {
@@ -3514,25 +3661,74 @@
     "firstSeen": 1788477048211,
     "name": "Mining Bag 01",
     "id": "1554",
-    "image": "/img/items/miningbag01.png"
+    "image": "/img/items/miningbag01.png",
+    "openable": true,
+    "rarity": "Uncommon",
+    "opensTo": [
+      {
+        "name": "Pickaxe"
+      },
+      {
+        "name": "Bone Pickaxe"
+      }
+    ]
   },
   {
     "firstSeen": 1788477048210,
     "name": "Mining Bag 02",
     "id": "1555",
-    "image": "/img/items/miningbag02.png"
+    "image": "/img/items/miningbag02.png",
+    "openable": true,
+    "rarity": "Uncommon",
+    "opensTo": [
+      {
+        "name": "Bone Pickaxe"
+      },
+      {
+        "name": "Crystal Pickaxe"
+      },
+      {
+        "name": "Explosive"
+      }
+    ]
   },
   {
     "firstSeen": 1788477048203,
     "name": "Mining Bag 03",
     "id": "1556",
-    "image": "/img/items/miningbag03.png"
+    "image": "/img/items/miningbag03.png",
+    "openable": true,
+    "rarity": "Uncommon",
+    "opensTo": [
+      {
+        "name": "Crystal Pickaxe"
+      },
+      {
+        "name": "Sturdy Pickaxe"
+      },
+      {
+        "name": "Explosive"
+      }
+    ]
   },
   {
     "firstSeen": 1788477048201,
     "name": "Mining Bag 04",
     "id": "1557",
-    "image": "/img/items/miningbag04.png"
+    "image": "/img/items/miningbag04.png",
+    "openable": true,
+    "rarity": "Uncommon",
+    "opensTo": [
+      {
+        "name": "Sturdy Pickaxe"
+      },
+      {
+        "name": "Steel Pickaxe"
+      },
+      {
+        "name": "Bomb"
+      }
+    ]
   },
   {
     "firstSeen": 1788477048197,
@@ -3553,55 +3749,105 @@
     "firstSeen": 1788477048313,
     "name": "Cid's Spare Pickaxe",
     "id": "1561",
-    "image": "/img/items/cidpickaxe.png"
+    "image": "/img/items/cidpickaxe.png",
+    "openable": false,
+    "rarity": "Super Rare"
   },
   {
     "firstSeen": 1788477047761,
     "name": "Cave Paste",
     "id": "1562",
-    "image": "/img/items/cavepaste.png"
+    "image": "/img/items/cavepaste.png",
+    "openable": false,
+    "sellPrice": 25000,
+    "craftPrice": 500,
+    "xp": 2500,
+    "rarity": "Common",
+    "mastery": true
   },
   {
     "firstSeen": 1788477047750,
     "name": "Aquacite Ring",
     "id": "1563",
-    "image": "/img/items/aquacitering.png"
+    "image": "/img/items/aquacitering.png",
+    "openable": false,
+    "sellPrice": 24700,
+    "craftPrice": 7000,
+    "xp": 3400,
+    "rarity": "Common",
+    "mastery": true
   },
   {
     "firstSeen": 1788477047757,
     "name": "Refined Esperium",
     "id": "1564",
-    "image": "/img/items/esperiumore.png"
+    "image": "/img/items/esperiumore.png",
+    "openable": false,
+    "sellPrice": 2000,
+    "craftPrice": 500,
+    "xp": 1950,
+    "rarity": "Common",
+    "mastery": true
   },
   {
     "firstSeen": 1788477047730,
     "name": "Calmine Composite",
     "id": "1565",
-    "image": "/img/items/calaminecomposite.png"
+    "image": "/img/items/calaminecomposite.png",
+    "openable": false,
+    "sellPrice": 6000,
+    "craftPrice": 4000,
+    "xp": 1500,
+    "rarity": "Common",
+    "mastery": true
   },
   {
     "firstSeen": 1788477047638,
     "name": "Calmine Lotion",
     "id": "1566",
-    "image": "/img/items/caliminelotion.png"
+    "image": "/img/items/caliminelotion.png",
+    "openable": false,
+    "sellPrice": 145000,
+    "craftPrice": 32000,
+    "xp": 1500,
+    "rarity": "Common",
+    "mastery": true
   },
   {
     "firstSeen": 1788477047876,
     "name": "Acid Extract",
     "id": "1567",
-    "image": "/img/items/acid.png"
+    "image": "/img/items/acid.png",
+    "openable": false,
+    "sellPrice": 80000,
+    "craftPrice": 6000,
+    "xp": 8000,
+    "rarity": "Common",
+    "mastery": true
   },
   {
     "firstSeen": 1788477047714,
     "name": "Esperium Band",
     "id": "1568",
-    "image": "/img/items/esperiumband.png"
+    "image": "/img/items/esperiumband.png",
+    "openable": false,
+    "sellPrice": 6000,
+    "craftPrice": 1000,
+    "xp": 1500,
+    "rarity": "Common",
+    "mastery": true
   },
   {
     "firstSeen": 1788477047745,
     "name": "Green Halite Ring",
     "id": "1569",
-    "image": "/img/items/greenhalitering.png"
+    "image": "/img/items/greenhalitering.png",
+    "openable": false,
+    "sellPrice": 12000,
+    "craftPrice": 2000,
+    "xp": 1500,
+    "rarity": "Common",
+    "mastery": true
   },
   {
     "name": "Gold Peppers",
@@ -3625,13 +3871,25 @@
     "firstSeen": 1788477047670,
     "name": "Fairy Ring",
     "id": "1571",
-    "image": "/img/items/fairyring.png"
+    "image": "/img/items/fairyring.png",
+    "openable": false,
+    "sellPrice": 64000,
+    "craftPrice": 6400,
+    "xp": 6400,
+    "rarity": "Common",
+    "mastery": true
   },
   {
     "firstSeen": 1788477047740,
     "name": "Refined Plum Ore",
     "id": "1572",
-    "image": "/img/items/plumirondeposit.png"
+    "image": "/img/items/plumirondeposit.png",
+    "openable": false,
+    "sellPrice": 14000,
+    "craftPrice": 1200,
+    "xp": 800,
+    "rarity": "Common",
+    "mastery": true
   },
   {
     "firstSeen": 1788477047732,
@@ -3764,7 +4022,100 @@
     "firstSeen": 1788477047602,
     "name": "Embershard Ring",
     "id": "1591",
-    "image": "/img/items/embershardring.png"
+    "image": "/img/items/embershardring.png",
+    "openable": false,
+    "sellPrice": 49000,
+    "craftPrice": 8400,
+    "xp": 5700,
+    "rarity": "Common",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788480298480,
+    "id": "1592",
+    "name": "Cid’s Minecart 01",
+    "image": "/img/items/cidsminecart.png",
+    "openable": true,
+    "givable": true,
+    "rarity": "Very Rare",
+    "opensTo": [
+      {
+        "id": "379",
+        "name": "Apple Cider",
+        "quantity": 125
+      },
+      {
+        "id": "830",
+        "name": "Apple Pie",
+        "quantity": 1
+      },
+      {
+        "id": "1107",
+        "name": "Apple Turnover",
+        "quantity": 3
+      },
+      {
+        "id": "1285",
+        "name": "Bar of Silver",
+        "quantity": 1
+      },
+      {
+        "id": "789",
+        "name": "Bomb",
+        "quantity": 25
+      },
+      {
+        "id": "1594",
+        "name": "Detonator",
+        "quantity": 1
+      },
+      {
+        "id": "106",
+        "name": "Explosive",
+        "quantity": 100
+      },
+      {
+        "id": "368",
+        "name": "Lantern",
+        "quantity": 200
+      },
+      {
+        "id": "1554",
+        "name": "Mining Bag 01",
+        "quantity": 5
+      },
+      {
+        "id": "1555",
+        "name": "Mining Bag 02",
+        "quantity": 5
+      },
+      {
+        "id": "1556",
+        "name": "Mining Bag 03",
+        "quantity": 5
+      },
+      {
+        "id": "827",
+        "name": "Raffle Ticket",
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "firstSeen": 1788480297705,
+    "id": "1593",
+    "name": "Cid Buddy Doll",
+    "image": "/img/items/Cid_buddy_doll.png",
+    "openable": false,
+    "rarity": "Very Rare"
+  },
+  {
+    "firstSeen": 1788480298002,
+    "id": "1594",
+    "name": "Detonator",
+    "image": "/img/items/viri_4128.png",
+    "openable": false,
+    "rarity": "Very Rare"
   },
   {
     "firstSeen": 1788477047759,
@@ -5711,7 +6062,9 @@
     "image": "/img/items/buddystone.png",
     "sellPrice": 1750,
     "xp": 1750,
-    "rarity": "Super Rare"
+    "rarity": "Super Rare",
+    "openable": false,
+    "givable": false
   },
   {
     "name": "Wooden Sword",
@@ -9056,7 +9409,8 @@
     "name": "Pirate Hook",
     "image": "/img/items/pirates_38_t.png",
     "sellPrice": 100000,
-    "rarity": "Super Rare"
+    "rarity": "Super Rare",
+    "openable": false
   },
   {
     "firstSeen": 1652992968566,
@@ -9161,7 +9515,8 @@
     "image": "/img/items/pirates_47_t.png",
     "xp": 2500,
     "rarity": "Uncommon",
-    "fleaMarket": 50
+    "fleaMarket": 50,
+    "openable": false
   },
   {
     "firstSeen": 1652993002242,

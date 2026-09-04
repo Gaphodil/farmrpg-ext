@@ -614,7 +614,11 @@
       "Mossroom",
       "Green Gel",
       "Mossy Cog",
-      "Mossy Bone"
+      "Mossy Bone",
+      "Ancient Rune",
+      "Fossilized Viper",
+      "Ruined Ether Hammer",
+      "Ruined Ether Drill"
     ],
     "id": "6",
     "type": "mining",
