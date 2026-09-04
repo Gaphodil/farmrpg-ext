@@ -9,12 +9,108 @@
     "mastery": true
   },
   {
+    "firstSeen": 1788477047530,
+    "name": "Certificate of Potato Giving",
+    "id": "1000",
+    "image": "/img/items/7896-blue.png"
+  },
+  {
+    "firstSeen": 1788477047530,
+    "name": "Certificate of Tomato Giving",
+    "id": "1001",
+    "image": "/img/items/7896.png"
+  },
+  {
+    "firstSeen": 1788477047531,
+    "name": "Certificate of Leek Giving",
+    "id": "1002",
+    "image": "/img/items/7896-green.png"
+  },
+  {
+    "firstSeen": 1788477047531,
+    "name": "Certificate of Watermelon Giving",
+    "id": "1003",
+    "image": "/img/items/7896-green.png"
+  },
+  {
+    "firstSeen": 1788477047533,
+    "name": "Certificate of Corn Giving",
+    "id": "1004",
+    "image": "/img/items/7896-yellow.png"
+  },
+  {
+    "firstSeen": 1788477047533,
+    "name": "Certificate of Cabbage Giving",
+    "id": "1005",
+    "image": "/img/items/7896-green.png"
+  },
+  {
+    "firstSeen": 1788477047534,
+    "name": "Certificate of Pine Giving",
+    "id": "1006",
+    "image": "/img/items/7896-green.png"
+  },
+  {
+    "firstSeen": 1788477047534,
+    "name": "Certificate of Pumpkin Giving",
+    "id": "1007",
+    "image": "/img/items/7896-orange.png"
+  },
+  {
+    "firstSeen": 1788477047534,
+    "name": "Certificate of Wheat Giving",
+    "id": "1008",
+    "image": "/img/items/7896-yellow.png"
+  },
+  {
+    "firstSeen": 1788477047537,
+    "name": "Certificate of Broccoli Giving",
+    "id": "1009",
+    "image": "/img/items/7896-green.png"
+  },
+  {
     "name": "Conch Shell",
     "id": "101",
     "image": "/img/items/7904.png",
     "sellPrice": 100,
     "xp": 525,
     "mastery": true
+  },
+  {
+    "firstSeen": 1788477047537,
+    "name": "Certificate of Cotton Giving",
+    "id": "1010",
+    "image": "/img/items/7896-gray.png"
+  },
+  {
+    "firstSeen": 1788477047539,
+    "name": "Certificate of Sunflower Giving",
+    "id": "1011",
+    "image": "/img/items/7896-yellow.png"
+  },
+  {
+    "firstSeen": 1788477047539,
+    "name": "Certificate of Beet Giving",
+    "id": "1012",
+    "image": "/img/items/7896-purple.png"
+  },
+  {
+    "firstSeen": 1788477047540,
+    "name": "Certificate of Rice Giving",
+    "id": "1013",
+    "image": "/img/items/7896-yellow.png"
+  },
+  {
+    "firstSeen": 1788477048276,
+    "name": "Cursed Effigy",
+    "id": "1018",
+    "image": "/img/items/Buddyidol.png"
+  },
+  {
+    "firstSeen": 1788477048277,
+    "name": "Corn Ball",
+    "id": "1019",
+    "image": "/img/items/Cornball.png"
   },
   {
     "name": "Shimmer Quartz",
@@ -25,12 +121,114 @@
     "rarity": "Common"
   },
   {
+    "firstSeen": 1788477047658,
+    "name": "Egg of Air",
+    "id": "1021",
+    "image": "/img/items/airegg.png"
+  },
+  {
+    "firstSeen": 1788477047665,
+    "name": "Egg of Chaos",
+    "id": "1022",
+    "image": "/img/items/chaosegg.png"
+  },
+  {
+    "firstSeen": 1788477047698,
+    "name": "Egg of Earth",
+    "id": "1023",
+    "image": "/img/items/earthegg.png"
+  },
+  {
+    "firstSeen": 1788477047697,
+    "name": "Egg of Fire",
+    "id": "1024",
+    "image": "/img/items/fireegg.png"
+  },
+  {
+    "firstSeen": 1788477047796,
+    "name": "Egg of Life",
+    "id": "1025",
+    "image": "/img/items/lifeegg.png"
+  },
+  {
+    "firstSeen": 1788477047697,
+    "name": "Egg of Light",
+    "id": "1026",
+    "image": "/img/items/lightegg.png"
+  },
+  {
+    "firstSeen": 1788477047710,
+    "name": "Egg of Shadow",
+    "id": "1027",
+    "image": "/img/items/shadowegg.png"
+  },
+  {
+    "firstSeen": 1788477047691,
+    "name": "Egg of Space",
+    "id": "1028",
+    "image": "/img/items/spaceegg.png"
+  },
+  {
+    "firstSeen": 1788477047666,
+    "name": "Egg of Ages",
+    "id": "1029",
+    "image": "/img/items/timeegg2.png"
+  },
+  {
     "name": "Coal",
     "id": "103",
     "image": "/img/items/coal.png",
     "sellPrice": 50,
     "xp": 50,
     "givable": true
+  },
+  {
+    "firstSeen": 1788477047672,
+    "name": "Egg of Water",
+    "id": "1030",
+    "image": "/img/items/wateregg.png"
+  },
+  {
+    "firstSeen": 1788477048200,
+    "name": "Magical Egg Basket",
+    "id": "1031",
+    "image": "/img/items/mageggbasket.png"
+  },
+  {
+    "firstSeen": 1788477047541,
+    "name": "Kite Kite",
+    "id": "1033",
+    "image": "/img/items/birdkite.png"
+  },
+  {
+    "firstSeen": 1788477048278,
+    "name": "Buddy's Sleeping Cap",
+    "id": "1034",
+    "image": "/img/items/buddyssleepingcap.png"
+  },
+  {
+    "firstSeen": 1788477047848,
+    "name": "White Truffle",
+    "id": "1035",
+    "image": "/img/items/whitetruffle.png"
+  },
+  {
+    "firstSeen": 1788477047834,
+    "name": "Black Truffle",
+    "id": "1036",
+    "image": "/img/items/blacktruffle.png"
+  },
+  {
+    "firstSeen": 1788477048314,
+    "name": "Pig Collar",
+    "id": "1037",
+    "image": "/img/items/pigcollar.png?1"
+  },
+  {
+    "firstSeen": 1788477048279,
+    "name": "Egg of Zeal",
+    "id": "1038",
+    "image": "/img/items/eggofzeal2.gif"
   },
   {
     "name": "Black Powder",
@@ -48,6 +246,66 @@
       }
     ],
     "craftPrice": 50
+  },
+  {
+    "firstSeen": 1788477047582,
+    "name": "Piece of Cake",
+    "id": "1040",
+    "image": "/img/items/birthdaycakeslice.png"
+  },
+  {
+    "firstSeen": 1788477048081,
+    "name": "Red Diamond Fish",
+    "id": "1041",
+    "image": "/img/items/reddfish.png"
+  },
+  {
+    "firstSeen": 1788477047678,
+    "name": "Cricket",
+    "id": "1042",
+    "image": "/img/items/cricket.png"
+  },
+  {
+    "firstSeen": 1788477048209,
+    "name": "Bug Bag 01",
+    "id": "1043",
+    "image": "/img/items/bug_bag.png"
+  },
+  {
+    "firstSeen": 1788477048280,
+    "name": "Lorn Bobblehead",
+    "id": "1044",
+    "image": "/img/items/bobble_lorn.png"
+  },
+  {
+    "firstSeen": 1788477047943,
+    "name": "Piñata Whop Stick",
+    "id": "1045",
+    "image": "/img/items/pinata_stick.png"
+  },
+  {
+    "firstSeen": 1788477047986,
+    "name": "B for Buddies",
+    "id": "1046",
+    "image": "/img/items/Buddiescandy.png"
+  },
+  {
+    "firstSeen": 1788477047987,
+    "name": "Strawberry Good Goods",
+    "id": "1047",
+    "image": "/img/items/strawberrycandy.png"
+  },
+  {
+    "firstSeen": 1788477047988,
+    "name": "Beary Squishies",
+    "id": "1048",
+    "image": "/img/items/squishybears.png"
+  },
+  {
+    "firstSeen": 1788477047653,
+    "name": "Party Hat",
+    "id": "1049",
+    "image": "/img/items/partyhat.png"
   },
   {
     "name": "Bottle Rocket",
@@ -75,6 +333,66 @@
     ],
     "rarity": "",
     "craftPrice": 100
+  },
+  {
+    "firstSeen": 1788477048252,
+    "name": "3rd Birthday Card",
+    "id": "1050",
+    "image": "/img/items/card_3ears.png"
+  },
+  {
+    "firstSeen": 1788477048281,
+    "name": "Charles Bobblehead",
+    "id": "1051",
+    "image": "/img/items/bobble_charles.png"
+  },
+  {
+    "firstSeen": 1788477048281,
+    "name": "Jill Bobblehead",
+    "id": "1052",
+    "image": "/img/items/bobble_jill.png"
+  },
+  {
+    "firstSeen": 1788477047781,
+    "name": "Carved Kitty",
+    "id": "1053",
+    "image": "/img/items/carved_cat.png"
+  },
+  {
+    "firstSeen": 1788477047770,
+    "name": "Carved Chicken",
+    "id": "1054",
+    "image": "/img/items/carved_chicken.png"
+  },
+  {
+    "firstSeen": 1788477047776,
+    "name": "Carved Cow",
+    "id": "1055",
+    "image": "/img/items/carved_cow.png"
+  },
+  {
+    "firstSeen": 1788477047775,
+    "name": "Carved Dragon",
+    "id": "1056",
+    "image": "/img/items/carved_dragon.png"
+  },
+  {
+    "firstSeen": 1788477047783,
+    "name": "Carved Fox",
+    "id": "1057",
+    "image": "/img/items/carved_fox.png"
+  },
+  {
+    "firstSeen": 1788477047771,
+    "name": "Carved Mouse",
+    "id": "1058",
+    "image": "/img/items/carved_mouse.png"
+  },
+  {
+    "firstSeen": 1788477047772,
+    "name": "Carved Pig",
+    "id": "1059",
+    "image": "/img/items/carved_pig.png"
   },
   {
     "name": "Explosive",
@@ -109,6 +427,66 @@
     "givable": true
   },
   {
+    "firstSeen": 1788477047774,
+    "name": "Carved Squisquatch",
+    "id": "1060",
+    "image": "/img/items/carved_squisquatch.png"
+  },
+  {
+    "firstSeen": 1788477048282,
+    "name": "Beatrix Bobblehead",
+    "id": "1061",
+    "image": "/img/items/bobble_beatrix.png"
+  },
+  {
+    "firstSeen": 1788477048283,
+    "name": "Borgen Bobblehead",
+    "id": "1062",
+    "image": "/img/items/bobble_borgen.png"
+  },
+  {
+    "firstSeen": 1788477048283,
+    "name": "Buddy Bobblehead",
+    "id": "1063",
+    "image": "/img/items/bobble_buddy.png"
+  },
+  {
+    "firstSeen": 1788477048284,
+    "name": "CptThomas Bobblehead",
+    "id": "1064",
+    "image": "/img/items/bobble_ct.png"
+  },
+  {
+    "firstSeen": 1788477047964,
+    "name": "Block of Wood",
+    "id": "1065",
+    "image": "/img/items/wood_block.png"
+  },
+  {
+    "firstSeen": 1788477048000,
+    "name": "Handsaw",
+    "id": "1066",
+    "image": "/img/items/3149.png"
+  },
+  {
+    "firstSeen": 1788477048285,
+    "name": "Cecil Bobblehead",
+    "id": "1067",
+    "image": "/img/items/bobble_cecil.png"
+  },
+  {
+    "firstSeen": 1788477048287,
+    "name": "frank Bobblehead",
+    "id": "1068",
+    "image": "/img/items/bobble_frank.png"
+  },
+  {
+    "firstSeen": 1788477048288,
+    "name": "Gary Bobblehead",
+    "id": "1069",
+    "image": "/img/items/bobble_gary.png"
+  },
+  {
     "name": "Catfish",
     "id": "107",
     "image": "/img/items/redcatfish.png",
@@ -117,6 +495,36 @@
     "fleaMarket": 2,
     "rarity": "Common",
     "mastery": true
+  },
+  {
+    "firstSeen": 1788477048288,
+    "name": "Geist Bobblehead",
+    "id": "1070",
+    "image": "/img/items/bobble_geist.png"
+  },
+  {
+    "firstSeen": 1788477048289,
+    "name": "Holger Bobblehead",
+    "id": "1072",
+    "image": "/img/items/bobble_holger.png"
+  },
+  {
+    "firstSeen": 1788477048290,
+    "name": "Mummy Bobblehead",
+    "id": "1074",
+    "image": "/img/items/bobble_mummy.png"
+  },
+  {
+    "firstSeen": 1788477048291,
+    "name": "Ric Ryph Bobblehead",
+    "id": "1075",
+    "image": "/img/items/bobble_ric.png"
+  },
+  {
+    "firstSeen": 1788477048292,
+    "name": "Thomas Bobblehead",
+    "id": "1079",
+    "image": "/img/items/bobble_thomas.png"
   },
   {
     "name": "Arrowhead",
@@ -129,6 +537,48 @@
     "givable": true
   },
   {
+    "firstSeen": 1788477047625,
+    "name": "Supply Voucher",
+    "id": "1081",
+    "image": "/img/items/voucher.png"
+  },
+  {
+    "firstSeen": 1788477047582,
+    "name": "Sand Shovel",
+    "id": "1083",
+    "image": "/img/items/sand_shovel.png"
+  },
+  {
+    "firstSeen": 1788477047583,
+    "name": "Sand Castle Bucket",
+    "id": "1084",
+    "image": "/img/items/sand_castle_bucket.png"
+  },
+  {
+    "firstSeen": 1788477047584,
+    "name": "Coconut",
+    "id": "1085",
+    "image": "/img/items/coconut.png"
+  },
+  {
+    "firstSeen": 1788477047676,
+    "name": "Beach Umbrella",
+    "id": "1086",
+    "image": "/img/items/beach_umbrella.png"
+  },
+  {
+    "firstSeen": 1788477047720,
+    "name": "Beach Towel",
+    "id": "1087",
+    "image": "/img/items/beach_towel.png"
+  },
+  {
+    "firstSeen": 1788477047994,
+    "name": "Fire Ant Farm",
+    "id": "1089",
+    "image": "/img/items/antfarm.png?1"
+  },
+  {
     "name": "Hide",
     "id": "109",
     "image": "/img/items/5986.PNG",
@@ -136,6 +586,60 @@
     "xp": 150,
     "givable": true,
     "rarity": "Common"
+  },
+  {
+    "firstSeen": 1788477047626,
+    "name": "Safety Goggles",
+    "id": "1090",
+    "image": "/img/items/2129.png"
+  },
+  {
+    "firstSeen": 1788477047715,
+    "name": "Prune Juice",
+    "id": "1092",
+    "image": "/img/items/prunejuice.png"
+  },
+  {
+    "firstSeen": 1788477047706,
+    "name": "Green Torpedo",
+    "id": "1093",
+    "image": "/img/items/greenfw.png"
+  },
+  {
+    "firstSeen": 1788477048031,
+    "name": "Glass Jar",
+    "id": "1094",
+    "image": "/img/items/glassjar.png"
+  },
+  {
+    "firstSeen": 1788477047975,
+    "name": "Mayonnaise",
+    "id": "1095",
+    "image": "/img/items/mayo.png"
+  },
+  {
+    "firstSeen": 1788477048328,
+    "name": "Support's Ticket",
+    "id": "1096",
+    "image": "/img/items/sticket.png"
+  },
+  {
+    "firstSeen": 1788477047949,
+    "name": "Event Token",
+    "id": "1097",
+    "image": "/img/items/token.png"
+  },
+  {
+    "firstSeen": 1788477047541,
+    "name": "Belt of Freedom",
+    "id": "1098",
+    "image": "/img/items/freedombelt.png"
+  },
+  {
+    "firstSeen": 1788477048195,
+    "name": "Supply Bag 01",
+    "id": "1099",
+    "image": "/img/items/BagsAndBoxes_30_t.png"
   },
   {
     "name": "Peppers",
@@ -165,6 +669,54 @@
     "craftPrice": 25
   },
   {
+    "firstSeen": 1788477048190,
+    "name": "Supply Bag 02",
+    "id": "1100",
+    "image": "/img/items/BagsAndBoxes_30_t.png"
+  },
+  {
+    "firstSeen": 1788477048206,
+    "name": "Supply Crate 01",
+    "id": "1101",
+    "image": "/img/items/BagsAndBoxes_17_t.png"
+  },
+  {
+    "firstSeen": 1788477048188,
+    "name": "Supply Crate 02",
+    "id": "1102",
+    "image": "/img/items/BagsAndBoxes_17_t.png"
+  },
+  {
+    "firstSeen": 1788477047680,
+    "name": "Baba Cola",
+    "id": "1103",
+    "image": "/img/items/babacola.png"
+  },
+  {
+    "firstSeen": 1788477047542,
+    "name": "YoYo",
+    "id": "1105",
+    "image": "/img/items/yoyo.png"
+  },
+  {
+    "firstSeen": 1788477047585,
+    "name": "Mixed Nuts",
+    "id": "1106",
+    "image": "/img/items/nuts.png"
+  },
+  {
+    "firstSeen": 1788477047680,
+    "name": "Apple Turnover",
+    "id": "1107",
+    "image": "/img/items/appleturnover.png"
+  },
+  {
+    "firstSeen": 1788477047543,
+    "name": "Strange Temple Necklace",
+    "id": "1108",
+    "image": "/img/items/9419.png"
+  },
+  {
     "name": "Bird Egg",
     "id": "111",
     "image": "/img/items/6067.PNG",
@@ -173,6 +725,66 @@
     "givable": true,
     "fleaMarket": 1,
     "rarity": "Common"
+  },
+  {
+    "firstSeen": 1788477047611,
+    "name": "Apple Slicer",
+    "id": "1110",
+    "image": "/img/items/applecutter.png"
+  },
+  {
+    "firstSeen": 1788477047841,
+    "name": "Steel Pickaxe",
+    "id": "1111",
+    "image": "/img/items/5296b.png"
+  },
+  {
+    "firstSeen": 1788477047807,
+    "name": "Jadeite",
+    "id": "1112",
+    "image": "/img/items/jadeite.png?1"
+  },
+  {
+    "firstSeen": 1788477047814,
+    "name": "Mossy Stone",
+    "id": "1113",
+    "image": "/img/items/viri_4012.png"
+  },
+  {
+    "firstSeen": 1788477047741,
+    "name": "Unpolished Pyrite",
+    "id": "1114",
+    "image": "/img/items/upyrite.png"
+  },
+  {
+    "firstSeen": 1788477047717,
+    "name": "Pyrite",
+    "id": "1115",
+    "image": "/img/items/pyrite.png"
+  },
+  {
+    "firstSeen": 1788477047787,
+    "name": "Bone 06",
+    "id": "1116",
+    "image": "/img/items/1276.PNG"
+  },
+  {
+    "firstSeen": 1788477047775,
+    "name": "Blood Crystal",
+    "id": "1117",
+    "image": "/img/items/2429.png"
+  },
+  {
+    "firstSeen": 1788477047768,
+    "name": "Nightshade Cap",
+    "id": "1118",
+    "image": "/img/items/6594.png"
+  },
+  {
+    "firstSeen": 1788477047757,
+    "name": "Rune Shard",
+    "id": "1119",
+    "image": "/img/items/3476.png"
   },
   {
     "name": "Grape Juice",
@@ -197,6 +809,60 @@
     "fleaMarket": 10
   },
   {
+    "firstSeen": 1788477047707,
+    "name": "Broken Bangle",
+    "id": "1120",
+    "image": "/img/items/9090.png"
+  },
+  {
+    "firstSeen": 1788477047544,
+    "name": "Fangs",
+    "id": "1121",
+    "image": "/img/items/3980.png"
+  },
+  {
+    "firstSeen": 1788477047696,
+    "name": "Fenrir's Coin",
+    "id": "1122",
+    "image": "/img/items/4173.png"
+  },
+  {
+    "firstSeen": 1788477047691,
+    "name": "Pumpkin Juice",
+    "id": "1123",
+    "image": "/img/items/8874.png"
+  },
+  {
+    "firstSeen": 1788477047688,
+    "name": "Gummy Globber",
+    "id": "1125",
+    "image": "/img/items/candyfish.png"
+  },
+  {
+    "firstSeen": 1788477047703,
+    "name": "Thomas's Cup of PB",
+    "id": "1126",
+    "image": "/img/items/pbcup.png"
+  },
+  {
+    "firstSeen": 1788477047545,
+    "name": "Bird Key",
+    "id": "1127",
+    "image": "/img/items/birdkey.png"
+  },
+  {
+    "firstSeen": 1788477047860,
+    "name": "Rucksack",
+    "id": "1128",
+    "image": "/img/items/rucksack2.png"
+  },
+  {
+    "firstSeen": 1788477047612,
+    "name": "Sewing Needle",
+    "id": "1129",
+    "image": "/img/items/needle.png"
+  },
+  {
     "name": "Bone",
     "id": "113",
     "image": "/img/items/6033.PNG",
@@ -205,6 +871,66 @@
     "givable": true,
     "fleaMarket": 1,
     "rarity": "Common"
+  },
+  {
+    "firstSeen": 1788477047880,
+    "name": "Grand Piano",
+    "id": "1130",
+    "image": "/img/items/piano.png"
+  },
+  {
+    "firstSeen": 1788477047876,
+    "name": "Red Brick",
+    "id": "1131",
+    "image": "/img/items/redbrick2.png"
+  },
+  {
+    "firstSeen": 1788477048069,
+    "name": "Snow Shoes",
+    "id": "1132",
+    "image": "/img/items/snowshoes.png"
+  },
+  {
+    "firstSeen": 1788477047958,
+    "name": "Sail Cloth",
+    "id": "1133",
+    "image": "/img/items/2453.png"
+  },
+  {
+    "firstSeen": 1788477047922,
+    "name": "Gold Feed",
+    "id": "1134",
+    "image": "/img/items/goldfeed.png"
+  },
+  {
+    "firstSeen": 1788477047972,
+    "name": "Silk",
+    "id": "1135",
+    "image": "/img/items/silk.png"
+  },
+  {
+    "firstSeen": 1788477047882,
+    "name": "Fancy Clock",
+    "id": "1136",
+    "image": "/img/items/viri_4696.png"
+  },
+  {
+    "firstSeen": 1788477047943,
+    "name": "Pine Shelf",
+    "id": "1137",
+    "image": "/img/items/pineshelf.png"
+  },
+  {
+    "firstSeen": 1788477047655,
+    "name": "Book of Spells",
+    "id": "1138",
+    "image": "/img/items/afk_9510.png"
+  },
+  {
+    "firstSeen": 1788477047627,
+    "name": "Consumption Belt",
+    "id": "1139",
+    "image": "/img/items/afk_9592.png"
   },
   {
     "name": "Marlin",
@@ -216,13 +942,127 @@
     "mastery": true
   },
   {
+    "firstSeen": 1788477048325,
+    "name": "Quicksilver's Ring",
+    "id": "1140",
+    "image": "/img/items/viri_3369b.png"
+  },
+  {
+    "firstSeen": 1788477047662,
+    "name": "Tombstone",
+    "id": "1141",
+    "image": "/img/items/afk_9605.png"
+  },
+  {
+    "firstSeen": 1788477047650,
+    "name": "Mana Scarab",
+    "id": "1142",
+    "image": "/img/items/afk_9531.png"
+  },
+  {
+    "firstSeen": 1788477047639,
+    "name": "Zombie Buddy Doll",
+    "id": "1143",
+    "image": "/img/items/zbuddy.png"
+  },
+  {
+    "firstSeen": 1788477047683,
+    "name": "Spooky Slime",
+    "id": "1144",
+    "image": "/img/items/afk_9541.png"
+  },
+  {
+    "firstSeen": 1788477047627,
+    "name": "Vampire Buddy Doll",
+    "id": "1145",
+    "image": "/img/items/vbuddy.png"
+  },
+  {
+    "firstSeen": 1788477047586,
+    "name": "Ghost Buddy Doll",
+    "id": "1146",
+    "image": "/img/items/gbuddy.png"
+  },
+  {
+    "firstSeen": 1788477047587,
+    "name": "Werewolf Buddy Doll",
+    "id": "1147",
+    "image": "/img/items/wbuddy.png"
+  },
+  {
+    "firstSeen": 1788477048193,
+    "name": "Friendship Bag 01",
+    "id": "1148",
+    "image": "/img/items/friendshipbag.png"
+  },
+  {
+    "firstSeen": 1788477047631,
+    "name": "Turkey Buddy Doll",
+    "id": "1149",
+    "image": "/img/items/tbuddy.png"
+  },
+  {
     "name": "Puffer",
     "id": "115",
-    "image": "/img/items/7723.PNG",
+    "image": "/img/items/pufferfix.png",
     "sellPrice": 400,
     "xp": 400,
     "rarity": "Common",
     "mastery": true
+  },
+  {
+    "firstSeen": 1788477047588,
+    "name": "Movember Buddy Doll",
+    "id": "1150",
+    "image": "/img/items/mbuddy.png"
+  },
+  {
+    "firstSeen": 1788477047685,
+    "name": "Jester Buddy Doll",
+    "id": "1151",
+    "image": "/img/items/jbuddy.png"
+  },
+  {
+    "firstSeen": 1788477047677,
+    "name": "Adventure Buddy Doll",
+    "id": "1152",
+    "image": "/img/items/ebuddy.png"
+  },
+  {
+    "firstSeen": 1788477048293,
+    "name": "Baba Bobblehead",
+    "id": "1153",
+    "image": "/img/items/bobble_baba.png"
+  },
+  {
+    "firstSeen": 1788477048294,
+    "name": "Cid Bobblehead",
+    "id": "1154",
+    "image": "/img/items/bobble_cid.png"
+  },
+  {
+    "firstSeen": 1788477048071,
+    "name": "Lobster",
+    "id": "1155",
+    "image": "/img/items/lobster.png"
+  },
+  {
+    "firstSeen": 1788477047488,
+    "name": "Festive Eggnog",
+    "id": "1157",
+    "image": "/img/items/eggnog.png"
+  },
+  {
+    "firstSeen": 1788477047546,
+    "name": "Nut Cracker Buddy",
+    "id": "1158",
+    "image": "/img/items/nutcrackerbuddy.png"
+  },
+  {
+    "firstSeen": 1788477047546,
+    "name": "Nut Cracker Buddy Doll",
+    "id": "1159",
+    "image": "/img/items/cbuddy.png"
   },
   {
     "name": "Old Boot",
@@ -232,6 +1072,66 @@
     "xp": 100,
     "givable": true,
     "rarity": "Common"
+  },
+  {
+    "firstSeen": 1788477047628,
+    "name": "Krampus Buddy Doll",
+    "id": "1160",
+    "image": "/img/items/kbuddy.png"
+  },
+  {
+    "firstSeen": 1788477047589,
+    "name": "Santa Buddy Doll",
+    "id": "1161",
+    "image": "/img/items/sbuddy.png"
+  },
+  {
+    "firstSeen": 1788477047589,
+    "name": "Rudolph Buddy Doll",
+    "id": "1162",
+    "image": "/img/items/rbuddy.png"
+  },
+  {
+    "firstSeen": 1788477047826,
+    "name": "Yule Goat",
+    "id": "1163",
+    "image": "/img/items/yulegoatsm.png"
+  },
+  {
+    "firstSeen": 1788477047612,
+    "name": "Holiday Garland",
+    "id": "1164",
+    "image": "/img/items/garland.png"
+  },
+  {
+    "firstSeen": 1788477047547,
+    "name": "Mariya's Festive Eggnog",
+    "id": "1165",
+    "image": "/img/items/recipe.png"
+  },
+  {
+    "firstSeen": 1788477048248,
+    "name": "Sappy Christmas Card",
+    "id": "1166",
+    "image": "/img/items/card_sappy.png"
+  },
+  {
+    "firstSeen": 1788477048294,
+    "name": "Gold Rudolph",
+    "id": "1167",
+    "image": "/img/items/goldrudolph.png"
+  },
+  {
+    "firstSeen": 1788477048295,
+    "name": "Gold Mittens",
+    "id": "1168",
+    "image": "/img/items/goldmittens.png"
+  },
+  {
+    "firstSeen": 1788477048296,
+    "name": "Gold Wreath",
+    "id": "1169",
+    "image": "/img/items/goldwreath.png"
   },
   {
     "name": "Glass Bottle",
@@ -254,6 +1154,54 @@
       }
     ],
     "craftPrice": 25
+  },
+  {
+    "firstSeen": 1788477047700,
+    "name": "Maverick Chip",
+    "id": "1170",
+    "image": "/img/items/Maverick_coin.png"
+  },
+  {
+    "firstSeen": 1788477048154,
+    "name": "Frozen Radish",
+    "id": "1171",
+    "image": "/img/items/frozen_radish.png"
+  },
+  {
+    "firstSeen": 1788477047633,
+    "name": "Lucky Cat Buddy Doll",
+    "id": "1172",
+    "image": "/img/items/Manekinekobuddydoll.png"
+  },
+  {
+    "firstSeen": 1788477047633,
+    "name": "Frozen Buddy Doll",
+    "id": "1174",
+    "image": "/img/items/Buddy_doll_frozen.png"
+  },
+  {
+    "firstSeen": 1788477047590,
+    "name": "Fish Biscuit",
+    "id": "1176",
+    "image": "/img/items/fish_biscuit.png"
+  },
+  {
+    "firstSeen": 1788477047830,
+    "name": "Cooked Fish",
+    "id": "1177",
+    "image": "/img/items/6320.png"
+  },
+  {
+    "firstSeen": 1788477047548,
+    "name": "Strange Key 01",
+    "id": "1178",
+    "image": "/img/items/strangekey.png"
+  },
+  {
+    "firstSeen": 1788477047548,
+    "name": "Gary's Crushroom Key",
+    "id": "1179",
+    "image": "/img/items/mushroomkey.png"
   },
   {
     "name": "Leather Diary",
@@ -283,6 +1231,29 @@
     "craftPrice": 25
   },
   {
+    "firstSeen": 1788477076411,
+    "name": "Gainite",
+    "id": "1184",
+    "image": "/img/items/gainite.png",
+    "openable": false,
+    "sellPrice": 2147483647,
+    "craftPrice": 1,
+    "rarity": "Very Rare",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788477047591,
+    "name": "Gare Bear",
+    "id": "1188",
+    "image": "/img/items/buffteddy2.png"
+  },
+  {
+    "firstSeen": 1788477047629,
+    "name": "Heart Candies",
+    "id": "1189",
+    "image": "/img/items/heartcandies.png"
+  },
+  {
     "name": "Jellyfish",
     "id": "119",
     "image": "/img/items/7808.png",
@@ -290,6 +1261,54 @@
     "xp": 400,
     "rarity": "Common",
     "mastery": true
+  },
+  {
+    "firstSeen": 1788477047592,
+    "name": "Cupid Buddy Doll",
+    "id": "1190",
+    "image": "/img/items/buddydoll_cupid.png"
+  },
+  {
+    "firstSeen": 1788477047633,
+    "name": "Groundhog Buddy Doll",
+    "id": "1191",
+    "image": "/img/items/buddydoll_groundhog.png"
+  },
+  {
+    "firstSeen": 1788477047613,
+    "name": "Two Hearts Belt",
+    "id": "1193",
+    "image": "/img/items/valbelt.png"
+  },
+  {
+    "firstSeen": 1788477047614,
+    "name": "Hummingbird Feeder",
+    "id": "1195",
+    "image": "/img/items/hummingbird_feeder.png"
+  },
+  {
+    "firstSeen": 1788477047834,
+    "name": "Honeysuckle",
+    "id": "1196",
+    "image": "/img/items/honeysuckle.png"
+  },
+  {
+    "firstSeen": 1788477047549,
+    "name": "Leprechaun Buddy Doll",
+    "id": "1197",
+    "image": "/img/items/leafymcluckybuddydoll.png"
+  },
+  {
+    "firstSeen": 1788477047550,
+    "name": "Tanooki Buddy Doll",
+    "id": "1198",
+    "image": "/img/items/tanooki_buddy_doll.png"
+  },
+  {
+    "firstSeen": 1788477048297,
+    "name": "Cockatrice Egg",
+    "id": "1199",
+    "image": "/img/items/cockatrice_egg.png"
   },
   {
     "name": "Pepper Seeds",
@@ -314,6 +1333,54 @@
     "fleaMarket": 3
   },
   {
+    "firstSeen": 1788477047615,
+    "name": "Gold Laurel",
+    "id": "1201",
+    "image": "/img/items/goldleaflaurel.png"
+  },
+  {
+    "firstSeen": 1788477047484,
+    "name": "Lemon Seltzer",
+    "id": "1203",
+    "image": "/img/items/lemonseltzer.png"
+  },
+  {
+    "firstSeen": 1788477047592,
+    "name": "Nirumdivar",
+    "id": "1204",
+    "image": "/img/items/stave1.png"
+  },
+  {
+    "firstSeen": 1788477047550,
+    "name": "Banana Peel",
+    "id": "1205",
+    "image": "/img/items/1586.png"
+  },
+  {
+    "firstSeen": 1788477047551,
+    "name": "frank's Bunny Mask",
+    "id": "1206",
+    "image": "/img/items/afk_8744.png"
+  },
+  {
+    "firstSeen": 1788477047861,
+    "name": "Purple Butterfly",
+    "id": "1207",
+    "image": "/img/items/afk_8578.png"
+  },
+  {
+    "firstSeen": 1788477047868,
+    "name": "Green Butterfly",
+    "id": "1208",
+    "image": "/img/items/afk_8578g.png"
+  },
+  {
+    "firstSeen": 1788477047859,
+    "name": "Blue Butterfly",
+    "id": "1209",
+    "image": "/img/items/afk_8578b.png"
+  },
+  {
     "name": "Wine",
     "id": "121",
     "image": "/img/items/wine.png",
@@ -333,6 +1400,63 @@
       }
     ],
     "craftPrice": 250
+  },
+  {
+    "firstSeen": 1788477047864,
+    "name": "Red Butterfly",
+    "id": "1210",
+    "image": "/img/items/afk_8578r.png"
+  },
+  {
+    "firstSeen": 1788477048044,
+    "name": "Barbed Wire",
+    "id": "1211",
+    "image": "/img/items/barbedwire.png"
+  },
+  {
+    "firstSeen": 1788477047643,
+    "name": "Fuzzy Chick 01",
+    "id": "1212",
+    "image": "/img/items/fuzzychick1pink.png"
+  },
+  {
+    "firstSeen": 1788481466185,
+    "id": "1213",
+    "name": "Corn Bread",
+    "image": "/img/items/cornbread.png",
+    "openable": false,
+    "sellPrice": 3000000,
+    "rarity": "Very Rare"
+  },
+  {
+    "firstSeen": 1788477047764,
+    "name": "Fuzzy Chick 02",
+    "id": "1214",
+    "image": "/img/items/Fuzzychick2.png"
+  },
+  {
+    "firstSeen": 1788477047813,
+    "name": "Fuzzy Chick 03",
+    "id": "1215",
+    "image": "/img/items/Fuzzychick3green.png"
+  },
+  {
+    "firstSeen": 1788477047729,
+    "name": "Fuzzy Chick 04",
+    "id": "1216",
+    "image": "/img/items/Fuzzychick3yellow.png"
+  },
+  {
+    "firstSeen": 1788477047786,
+    "name": "Fuzzy Chick 05",
+    "id": "1217",
+    "image": "/img/items/Fuzzychick1blue.png"
+  },
+  {
+    "firstSeen": 1788477047773,
+    "name": "Fuzzy Chick 06",
+    "id": "1218",
+    "image": "/img/items/Fuzzychick3.png"
   },
   {
     "name": "Coin Purse",
@@ -356,6 +1480,60 @@
     "craftPrice": 25
   },
   {
+    "firstSeen": 1788477047682,
+    "name": "Fuzzy Chick 08",
+    "id": "1220",
+    "image": "/img/items/Fuzzychick1.png"
+  },
+  {
+    "firstSeen": 1788477047668,
+    "name": "Fuzzy Chick 09",
+    "id": "1221",
+    "image": "/img/items/Fuzzychick2pink.png"
+  },
+  {
+    "firstSeen": 1788477047646,
+    "name": "Fuzzy Chick 10",
+    "id": "1222",
+    "image": "/img/items/Fuzzychick1green.png"
+  },
+  {
+    "firstSeen": 1788477047704,
+    "name": "Fuzzy Chick 11",
+    "id": "1223",
+    "image": "/img/items/Fuzzychick2yellow.png"
+  },
+  {
+    "firstSeen": 1788477047634,
+    "name": "Fuzzy Chick 12",
+    "id": "1224",
+    "image": "/img/items/Fuzzychick3blue.png"
+  },
+  {
+    "firstSeen": 1788477047593,
+    "name": "Corn Buddy Doll",
+    "id": "1226",
+    "image": "/img/items/cornbuddydollx.png"
+  },
+  {
+    "firstSeen": 1788477047616,
+    "name": "Bunny Buddy Doll",
+    "id": "1227",
+    "image": "/img/items/bunnybuddydollx.png"
+  },
+  {
+    "firstSeen": 1788477048199,
+    "name": "Fuzzy Egg",
+    "id": "1228",
+    "image": "/img/items/fuzzychickegg.png"
+  },
+  {
+    "firstSeen": 1788477047552,
+    "name": "Cockatrice Ether Source",
+    "id": "1229",
+    "image": "/img/items/ethersource.png"
+  },
+  {
     "name": "Ancient Coin",
     "id": "123",
     "image": "/img/items/6019.PNG",
@@ -363,6 +1541,48 @@
     "xp": 1000,
     "fleaMarket": 3,
     "rarity": "Uncommon"
+  },
+  {
+    "firstSeen": 1788477048204,
+    "name": "Bait Bag 01",
+    "id": "1230",
+    "image": "/img/items/baitbag01.png"
+  },
+  {
+    "firstSeen": 1788477048258,
+    "name": "4th Birthday Card",
+    "id": "1234",
+    "image": "/img/items/card_4th.png"
+  },
+  {
+    "firstSeen": 1788477047554,
+    "name": "Birthday Suit Buddy Doll",
+    "id": "1235",
+    "image": "/img/items/birthday_suit_undies_buddy_doll.png"
+  },
+  {
+    "firstSeen": 1788477047555,
+    "name": "Fantastic Buddy Doll",
+    "id": "1236",
+    "image": "/img/items/four_buddy_doll.png"
+  },
+  {
+    "firstSeen": 1788477047555,
+    "name": "Party Horn",
+    "id": "1237",
+    "image": "/img/items/party_horn.png"
+  },
+  {
+    "firstSeen": 1788477047718,
+    "name": "Pet Treat",
+    "id": "1238",
+    "image": "/img/items/pettreat.png"
+  },
+  {
+    "firstSeen": 1788477047594,
+    "name": "Shark Jaws",
+    "id": "1239",
+    "image": "/img/items/370.png"
   },
   {
     "name": "Lemon Quartz Ring",
@@ -392,6 +1612,74 @@
     "craftPrice": 75
   },
   {
+    "firstSeen": 1788477048098,
+    "name": "Sea Turtle",
+    "id": "1240",
+    "image": "/img/items/afk_8514.png?1",
+    "openable": false,
+    "event": true,
+    "sellPrice": 15000,
+    "xp": 12000,
+    "rarity": "Very Rare",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788477047798,
+    "name": "Sea Urchin",
+    "id": "1241",
+    "image": "/img/items/afk_8528.png"
+  },
+  {
+    "firstSeen": 1788477047802,
+    "name": "Ghost Jelly",
+    "id": "1242",
+    "image": "/img/items/afk_8592.png"
+  },
+  {
+    "firstSeen": 1788477047806,
+    "name": "Barnacle Shell",
+    "id": "1243",
+    "image": "/img/items/afk_8532.png"
+  },
+  {
+    "firstSeen": 1788477047556,
+    "name": "Sunscreen",
+    "id": "1245",
+    "image": "/img/items/sunscreen.png"
+  },
+  {
+    "firstSeen": 1788477047556,
+    "name": "Sun Shades",
+    "id": "1246",
+    "image": "/img/items/4221.png"
+  },
+  {
+    "firstSeen": 1788477047732,
+    "name": "Cicada",
+    "id": "1247",
+    "image": "/img/items/cicada.png?1",
+    "openable": false,
+    "event": true,
+    "rarity": "Very Rare",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788477047794,
+    "name": "Cicada Shell",
+    "id": "1248",
+    "image": "/img/items/cicadashell.png",
+    "openable": false,
+    "event": true,
+    "rarity": "Very Rare",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788477047557,
+    "name": "Mermaid's Scale",
+    "id": "1249",
+    "image": "/img/items/mermaidscale.png"
+  },
+  {
     "name": "Aquamarine Ring",
     "id": "125",
     "image": "/img/items/aquaring.png",
@@ -419,6 +1707,57 @@
     "craftPrice": 50
   },
   {
+    "firstSeen": 1788477047558,
+    "name": "Dino Buddy Doll",
+    "id": "1250",
+    "image": "/img/items/yoshi_buddy_doll.png"
+  },
+  {
+    "firstSeen": 1788477047595,
+    "name": "Vacation Buddy Doll",
+    "id": "1251",
+    "image": "/img/items/vacation_buddy_doll.png"
+  },
+  {
+    "firstSeen": 1788477047559,
+    "name": "Mermaid's Necklace",
+    "id": "1253",
+    "image": "/img/items/5164.png"
+  },
+  {
+    "firstSeen": 1788477047560,
+    "name": "Fishing Hook",
+    "id": "1254",
+    "image": "/img/items/fishing_48_t.png"
+  },
+  {
+    "firstSeen": 1788477048298,
+    "name": "Ancient Stone Cicada",
+    "id": "1255",
+    "image": "/img/items/stonecicada.png?1"
+  },
+  {
+    "firstSeen": 1788477048218,
+    "name": "Medium Chest 03",
+    "id": "1257",
+    "image": "/img/items/8574.png"
+  },
+  {
+    "firstSeen": 1788477047656,
+    "name": "Stone Fragment",
+    "id": "1258",
+    "image": "/img/items/stonefragment.png",
+    "openable": false,
+    "event": true,
+    "rarity": "Very Rare"
+  },
+  {
+    "firstSeen": 1788477048298,
+    "name": "Blue Tang",
+    "id": "1259",
+    "image": "/img/items/bluetang.png?1"
+  },
+  {
     "name": "Amethyst Necklace",
     "id": "126",
     "image": "/img/items/8016.png",
@@ -439,6 +1778,54 @@
       }
     ],
     "craftPrice": 50
+  },
+  {
+    "firstSeen": 1788477047952,
+    "name": "Magus Hat",
+    "id": "1260",
+    "image": "/img/items/5404.png"
+  },
+  {
+    "firstSeen": 1788477047595,
+    "name": "Safety Mask",
+    "id": "1262",
+    "image": "/img/items/2755.png"
+  },
+  {
+    "firstSeen": 1788477047616,
+    "name": "The Big One",
+    "id": "1263",
+    "image": "/img/items/redrocket.png"
+  },
+  {
+    "firstSeen": 1788477048198,
+    "name": "Event Token Purse",
+    "id": "1264",
+    "image": "/img/items/BagsAndBoxes_46_t.png"
+  },
+  {
+    "firstSeen": 1788477047596,
+    "name": "Cheese Wheel",
+    "id": "1266",
+    "image": "/img/items/viri_4437.png"
+  },
+  {
+    "firstSeen": 1788477047560,
+    "name": "Hotdog Buddy Doll",
+    "id": "1267",
+    "image": "/img/items/hot_dog_buddy_doll.png"
+  },
+  {
+    "firstSeen": 1788477047597,
+    "name": "Uncle Sam Buddy Doll",
+    "id": "1268",
+    "image": "/img/items/unclesambuddydoll.png"
+  },
+  {
+    "firstSeen": 1788477047478,
+    "name": "Fish and Chips",
+    "id": "1269",
+    "image": "/img/items/fishnchips.png"
   },
   {
     "name": "Wooden Shield",
@@ -467,12 +1854,108 @@
     "craftPrice": 75
   },
   {
+    "firstSeen": 1788477047561,
+    "name": "School Buddy Doll",
+    "id": "1271",
+    "image": "/img/items/back_to_school_buddy_doll.png"
+  },
+  {
+    "firstSeen": 1788477047562,
+    "name": "Smart Buddy Doll",
+    "id": "1272",
+    "image": "/img/items/nerdy_buddy_doll.png"
+  },
+  {
+    "firstSeen": 1788477048145,
+    "name": "Inferno Pepper",
+    "id": "1273",
+    "image": "/img/items/infpepper.png"
+  },
+  {
+    "firstSeen": 1788477047562,
+    "name": "Dewstar's Journal",
+    "id": "1274",
+    "image": "/img/items/dewstarbook.png"
+  },
+  {
+    "firstSeen": 1788477048244,
+    "name": "Happy Farmiversary Card",
+    "id": "1275",
+    "image": "/img/items/card_farmiversary.png"
+  },
+  {
+    "firstSeen": 1788477048159,
+    "name": "Sugar Cane",
+    "id": "1276",
+    "image": "/img/items/scane.png"
+  },
+  {
+    "firstSeen": 1788477047699,
+    "name": "Ant Apple",
+    "id": "1278",
+    "image": "/img/items/ant_apple.png"
+  },
+  {
+    "firstSeen": 1788477047694,
+    "name": "Apple Ant",
+    "id": "1279",
+    "image": "/img/items/apple_ant.png"
+  },
+  {
     "name": "Straw",
     "id": "128",
     "image": "/img/items/5908.png",
     "sellPrice": 150,
     "xp": 150,
     "rarity": "Common"
+  },
+  {
+    "firstSeen": 1788477047563,
+    "name": "Apple Picker",
+    "id": "1281",
+    "image": "/img/items/applepicker.png"
+  },
+  {
+    "firstSeen": 1788477048329,
+    "name": "Apple Slice",
+    "id": "1282",
+    "image": "/img/items/apple_slice.png"
+  },
+  {
+    "firstSeen": 1788477047598,
+    "name": "Apple Buddy Doll",
+    "id": "1283",
+    "image": "/img/items/apple_buddy_doll.png"
+  },
+  {
+    "firstSeen": 1788477047795,
+    "name": "Fall Leaves",
+    "id": "1284",
+    "image": "/img/items/fallleaves.png"
+  },
+  {
+    "firstSeen": 1788477047564,
+    "name": "Bar of Silver",
+    "id": "1285",
+    "image": "/img/items/silverbar.png"
+  },
+  {
+    "firstSeen": 1788477047598,
+    "name": "Apple Ant Buddy Doll",
+    "id": "1286",
+    "image": "/img/items/ant_apple_buddy_doll.png"
+  },
+  {
+    "firstSeen": 1788477047811,
+    "name": "Bitten Apple",
+    "id": "1288",
+    "image": "/img/items/bittenapple.png"
+  },
+  {
+    "firstSeen": 1788477047768,
+    "name": "Green Rubee",
+    "id": "1289",
+    "image": "/img/items/greengem.png"
   },
   {
     "name": "Broom",
@@ -494,6 +1977,60 @@
       }
     ],
     "craftPrice": 15
+  },
+  {
+    "firstSeen": 1788477047778,
+    "name": "Raw Meat",
+    "id": "1290",
+    "image": "/img/items/rawmeat.png"
+  },
+  {
+    "firstSeen": 1788477048322,
+    "name": "Mizzem's Daisies",
+    "id": "1291",
+    "image": "/img/items/MizzemsDaisies.png"
+  },
+  {
+    "firstSeen": 1788477048321,
+    "name": "Hensods's Bonsai",
+    "id": "1292",
+    "image": "/img/items/bonsai01.png"
+  },
+  {
+    "firstSeen": 1788477047791,
+    "name": "Pink Jelly",
+    "id": "1294",
+    "image": "/img/items/pinkjelly.png"
+  },
+  {
+    "firstSeen": 1788477048300,
+    "name": "Dream Nail",
+    "id": "1295",
+    "image": "/img/items/dream_nail.png?3"
+  },
+  {
+    "firstSeen": 1788477048197,
+    "name": "Gold Seed Bag 01",
+    "id": "1296",
+    "image": "/img/items/gold_bag.png"
+  },
+  {
+    "firstSeen": 1788477048189,
+    "name": "Buddy Doll Bag 01",
+    "id": "1297",
+    "image": "/img/items/Buddybag3.png"
+  },
+  {
+    "firstSeen": 1788477047814,
+    "name": "Unrefined Sugar",
+    "id": "1298",
+    "image": "/img/items/unrefined_sugar.png"
+  },
+  {
+    "firstSeen": 1788477047742,
+    "name": "White Sugar",
+    "id": "1299",
+    "image": "/img/items/sugar-white.png"
   },
   {
     "name": "Eggplant",
@@ -530,6 +2067,48 @@
     "craftPrice": 15
   },
   {
+    "firstSeen": 1788477047763,
+    "name": "Brown Sugar",
+    "id": "1300",
+    "image": "/img/items/sugar-brown.png"
+  },
+  {
+    "firstSeen": 1788477047785,
+    "name": "Molasses",
+    "id": "1301",
+    "image": "/img/items/molasses.png"
+  },
+  {
+    "firstSeen": 1788477047477,
+    "name": "Acorn Pie",
+    "id": "1304",
+    "image": "/img/items/acorn_pie.png"
+  },
+  {
+    "firstSeen": 1788477047808,
+    "name": "King Apple",
+    "id": "1305",
+    "image": "/img/items/king_apple3.png?1"
+  },
+  {
+    "firstSeen": 1788477047565,
+    "name": "George's Acorn Pie",
+    "id": "1306",
+    "image": "/img/items/recipe.png"
+  },
+  {
+    "firstSeen": 1788477048183,
+    "name": "Sugar Cane Seeds",
+    "id": "1307",
+    "image": "/img/items/scane_seeds.png"
+  },
+  {
+    "firstSeen": 1788477047715,
+    "name": "Ghost Candy",
+    "id": "1309",
+    "image": "/img/items/ghost_candy.png"
+  },
+  {
     "name": "Bluegill",
     "id": "131",
     "image": "/img/items/7722.PNG",
@@ -538,6 +2117,36 @@
     "givable": true,
     "rarity": "Common",
     "mastery": true
+  },
+  {
+    "firstSeen": 1788477048300,
+    "name": "Gold King Apple",
+    "id": "1311",
+    "image": "/img/items/king_apple_gold.png?1"
+  },
+  {
+    "firstSeen": 1788477047849,
+    "name": "Pumpkin Spiced Milk",
+    "id": "1313",
+    "image": "/img/items/Psm2.png"
+  },
+  {
+    "firstSeen": 1788477047566,
+    "name": "Cursed Shield",
+    "id": "1317",
+    "image": "/img/items/9199.png"
+  },
+  {
+    "firstSeen": 1788477048185,
+    "name": "Buddy Doll Bag 02",
+    "id": "1318",
+    "image": "/img/items/Buddybag4.png"
+  },
+  {
+    "firstSeen": 1788477047618,
+    "name": "11th Leaf Centerpiece",
+    "id": "1319",
+    "image": "/img/items/centerpiece.png"
   },
   {
     "name": "Carp",
@@ -550,6 +2159,54 @@
     "mastery": true
   },
   {
+    "firstSeen": 1788477047849,
+    "name": "Spooky Scarecrow",
+    "id": "1320",
+    "image": "/img/items/scarecrow.png"
+  },
+  {
+    "firstSeen": 1788477047684,
+    "name": "Travel Voucher",
+    "id": "1321",
+    "image": "/img/items/4876.png"
+  },
+  {
+    "firstSeen": 1788477048243,
+    "name": "Happy Halloween Card",
+    "id": "1322",
+    "image": "/img/items/halloween_card.png"
+  },
+  {
+    "firstSeen": 1788477047475,
+    "name": "Gravy Boat",
+    "id": "1324",
+    "image": "/img/items/gravyboat.png"
+  },
+  {
+    "firstSeen": 1788477047635,
+    "name": "Parade Balloon Buddy Doll",
+    "id": "1325",
+    "image": "/img/items/paradefloatbuddydoll.png"
+  },
+  {
+    "firstSeen": 1788477048070,
+    "name": "Seashell Necklace",
+    "id": "1327",
+    "image": "/img/items/shell_necklace.png"
+  },
+  {
+    "firstSeen": 1788477047858,
+    "name": "Fancy Sword",
+    "id": "1328",
+    "image": "/img/items/fancysword.png"
+  },
+  {
+    "firstSeen": 1788477047896,
+    "name": "Leather Helmet",
+    "id": "1329",
+    "image": "/img/items/afk_9140.png"
+  },
+  {
     "name": "Blue Sea Bass",
     "id": "133",
     "image": "/img/items/7818.png",
@@ -557,6 +2214,42 @@
     "xp": 600,
     "rarity": "Common",
     "mastery": true
+  },
+  {
+    "firstSeen": 1788477047844,
+    "name": "Reinforced Helmet",
+    "id": "1330",
+    "image": "/img/items/9096.png"
+  },
+  {
+    "firstSeen": 1788477047846,
+    "name": "Ship Mast",
+    "id": "1332",
+    "image": "/img/items/viri_4089.png"
+  },
+  {
+    "firstSeen": 1788477047901,
+    "name": "Spiky Bracelet",
+    "id": "1334",
+    "image": "/img/items/5175.png"
+  },
+  {
+    "firstSeen": 1788477047845,
+    "name": "Re'taw Pail",
+    "id": "1335",
+    "image": "/img/items/8263w.PNG?1"
+  },
+  {
+    "firstSeen": 1788477047962,
+    "name": "Red Scarf",
+    "id": "1336",
+    "image": "/img/items/redscarf.png"
+  },
+  {
+    "firstSeen": 1788477047657,
+    "name": "Holiday Cake",
+    "id": "1338",
+    "image": "/img/items/treecake.png"
   },
   {
     "name": "Stingray",
@@ -569,6 +2262,54 @@
     "mastery": true
   },
   {
+    "firstSeen": 1788477047567,
+    "name": "Gingerbread Buddy Doll",
+    "id": "1340",
+    "image": "/img/items/gingerbreadbuddydoll.png"
+  },
+  {
+    "firstSeen": 1788477047568,
+    "name": "Buddy Elf on a Shelf",
+    "id": "1341",
+    "image": "/img/items/belfonashelf.png"
+  },
+  {
+    "firstSeen": 1788477047883,
+    "name": "Ugly Buddy Sweater",
+    "id": "1342",
+    "image": "/img/items/ugly_sweater.png"
+  },
+  {
+    "firstSeen": 1788477047797,
+    "name": "Cotton Candy",
+    "id": "1343",
+    "image": "/img/items/cottoncandy.png"
+  },
+  {
+    "firstSeen": 1788477047799,
+    "name": "Mini Marshmallows",
+    "id": "1344",
+    "image": "/img/items/mms.png"
+  },
+  {
+    "firstSeen": 1788477048301,
+    "name": "Gold Buddy Sweater",
+    "id": "1346",
+    "image": "/img/items/ugly_sweater_gold.png"
+  },
+  {
+    "firstSeen": 1788477048148,
+    "name": "Frozen Hops",
+    "id": "1347",
+    "image": "/img/items/frozen_hops.png"
+  },
+  {
+    "firstSeen": 1788477047569,
+    "name": "Ice Scraper",
+    "id": "1348",
+    "image": "/img/items/ice_scraper.png"
+  },
+  {
     "name": "MIAB",
     "id": "135",
     "image": "/img/items/7756.png",
@@ -577,6 +2318,64 @@
     "fleaMarket": 3,
     "rarity": "Uncommon",
     "mastery": true
+  },
+  {
+    "firstSeen": 1788477047599,
+    "name": "Wampa Buddy Doll",
+    "id": "1350",
+    "image": "/img/items/wampabuddydoll.png"
+  },
+  {
+    "firstSeen": 1788477047600,
+    "name": "Swamp Puzzle",
+    "id": "1352",
+    "image": "/img/items/puzzle3.png",
+    "openable": false,
+    "craftPrice": 1000000,
+    "xp": 1,
+    "rarity": "Very Rare"
+  },
+  {
+    "firstSeen": 1788477047953,
+    "name": "Swamp Algae",
+    "id": "1353",
+    "image": "/img/items/swampalgae.png"
+  },
+  {
+    "firstSeen": 1788477047900,
+    "name": "Amber Mire Bloom",
+    "id": "1354",
+    "image": "/img/items/amberbloom.png"
+  },
+  {
+    "firstSeen": 1788477047913,
+    "name": "Sinkroot",
+    "id": "1355",
+    "image": "/img/items/3488.png"
+  },
+  {
+    "firstSeen": 1788477048044,
+    "name": "Bogslug",
+    "id": "1356",
+    "image": "/img/items/afk_8381.png"
+  },
+  {
+    "firstSeen": 1788477047894,
+    "name": "Swamp Thistle",
+    "id": "1357",
+    "image": "/img/items/finp_634.png"
+  },
+  {
+    "firstSeen": 1788477047913,
+    "name": "Mudcap",
+    "id": "1358",
+    "image": "/img/items/afk_8440.png"
+  },
+  {
+    "firstSeen": 1788477047892,
+    "name": "Glowshroom",
+    "id": "1359",
+    "image": "/img/items/glowshroom.png"
   },
   {
     "name": "Mussel",
@@ -588,10 +2387,130 @@
     "mastery": true
   },
   {
+    "firstSeen": 1788477047854,
+    "name": "Shadow Bloom",
+    "id": "1360",
+    "image": "/img/items/blackflower.png"
+  },
+  {
+    "firstSeen": 1788477047933,
+    "name": "Sporefly",
+    "id": "1361",
+    "image": "/img/items/1916.png"
+  },
+  {
+    "firstSeen": 1788477048333,
+    "name": "U'ral Talisman",
+    "id": "1362",
+    "image": "/img/items/viri_3731.png"
+  },
+  {
+    "firstSeen": 1788477047946,
+    "name": "Orange Dye",
+    "id": "1363",
+    "image": "/img/items/orangedye.png"
+  },
+  {
+    "firstSeen": 1788477047970,
+    "name": "Yellow Dye",
+    "id": "1364",
+    "image": "/img/items/yellowdye.png"
+  },
+  {
+    "firstSeen": 1788477047936,
+    "name": "Brown Dye",
+    "id": "1365",
+    "image": "/img/items/browndye.png"
+  },
+  {
+    "firstSeen": 1788477047808,
+    "name": "Black Dye",
+    "id": "1366",
+    "image": "/img/items/blackdye.png"
+  },
+  {
+    "firstSeen": 1788477048124,
+    "name": "Slimeback",
+    "id": "1367",
+    "image": "/img/items/slimeback.png"
+  },
+  {
+    "firstSeen": 1788477048083,
+    "name": "Glass Eye Urchin",
+    "id": "1368",
+    "image": "/img/items/afk_8843.png"
+  },
+  {
+    "firstSeen": 1788477048109,
+    "name": "Splatfish",
+    "id": "1369",
+    "image": "/img/items/splatterfish.png"
+  },
+  {
     "name": "Steak",
     "id": "137",
     "image": "/img/items/5773.PNG",
     "xp": 1
+  },
+  {
+    "firstSeen": 1788477048084,
+    "name": "Slobster",
+    "id": "1370",
+    "image": "/img/items/goobster.png"
+  },
+  {
+    "firstSeen": 1788477048088,
+    "name": "Slime Egg Shell",
+    "id": "1371",
+    "image": "/img/items/afk_8847.png"
+  },
+  {
+    "firstSeen": 1788477048096,
+    "name": "Boghead Snapper",
+    "id": "1372",
+    "image": "/img/items/afk_8800.png"
+  },
+  {
+    "firstSeen": 1788477048104,
+    "name": "Magenta Growth",
+    "id": "1373",
+    "image": "/img/items/afk_8827.png"
+  },
+  {
+    "firstSeen": 1788477048080,
+    "name": "Toxic Tendrils",
+    "id": "1374",
+    "image": "/img/items/finp_476.png"
+  },
+  {
+    "firstSeen": 1788477048099,
+    "name": "Reaver Claw",
+    "id": "1375",
+    "image": "/img/items/293.png"
+  },
+  {
+    "firstSeen": 1788477048110,
+    "name": "Bog Barnacle",
+    "id": "1376",
+    "image": "/img/items/382.png"
+  },
+  {
+    "firstSeen": 1788477048339,
+    "name": "Lavos Shard",
+    "id": "1377",
+    "image": "/img/items/408.png"
+  },
+  {
+    "firstSeen": 1788477048076,
+    "name": "Mini Slime Squid",
+    "id": "1378",
+    "image": "/img/items/3992.png"
+  },
+  {
+    "firstSeen": 1788477047968,
+    "name": "Bamboo",
+    "id": "1379",
+    "image": "/img/items/viri_4773.png"
   },
   {
     "name": "Green Jellyfish",
@@ -603,6 +2522,66 @@
     "mastery": true
   },
   {
+    "firstSeen": 1788477047979,
+    "name": "Gold Ring",
+    "id": "1380",
+    "image": "/img/items/goldring.png"
+  },
+  {
+    "firstSeen": 1788477047929,
+    "name": "Scrap Cloth",
+    "id": "1381",
+    "image": "/img/items/1529.png"
+  },
+  {
+    "firstSeen": 1788477047886,
+    "name": "Tin Can",
+    "id": "1382",
+    "image": "/img/items/198.png"
+  },
+  {
+    "firstSeen": 1788477048073,
+    "name": "Gold Slimeback",
+    "id": "1383",
+    "image": "/img/items/goldslimeback.png"
+  },
+  {
+    "firstSeen": 1788477048087,
+    "name": "Swamp Gourd",
+    "id": "1384",
+    "image": "/img/items/finp_382.png"
+  },
+  {
+    "firstSeen": 1788477048094,
+    "name": "Blubberfish",
+    "id": "1385",
+    "image": "/img/items/finp_415.png"
+  },
+  {
+    "firstSeen": 1788477047859,
+    "name": "Mist Lily",
+    "id": "1386",
+    "image": "/img/items/whiteflower.png"
+  },
+  {
+    "firstSeen": 1788477047866,
+    "name": "White Dye",
+    "id": "1387",
+    "image": "/img/items/whitedye.png"
+  },
+  {
+    "firstSeen": 1788477048045,
+    "name": "Orange Twine",
+    "id": "1388",
+    "image": "/img/items/orangetwine.png"
+  },
+  {
+    "firstSeen": 1788477048046,
+    "name": "White Twine",
+    "id": "1389",
+    "image": "/img/items/whitetwine.png"
+  },
+  {
     "name": "Skipjack",
     "id": "139",
     "image": "/img/items/7790.png",
@@ -610,6 +2589,66 @@
     "xp": 500,
     "givable": true,
     "mastery": true
+  },
+  {
+    "firstSeen": 1788477048020,
+    "name": "Black Twine",
+    "id": "1390",
+    "image": "/img/items/blacktwine.png"
+  },
+  {
+    "firstSeen": 1788477048047,
+    "name": "Yellow Twine",
+    "id": "1391",
+    "image": "/img/items/yellowtwine.png"
+  },
+  {
+    "firstSeen": 1788477047982,
+    "name": "Brown Twine",
+    "id": "1392",
+    "image": "/img/items/browntwine.png"
+  },
+  {
+    "firstSeen": 1788477047917,
+    "name": "Yellow Purse",
+    "id": "1393",
+    "image": "/img/items/yellowpurse.png"
+  },
+  {
+    "firstSeen": 1788477047811,
+    "name": "White Purse",
+    "id": "1394",
+    "image": "/img/items/whitepurse.png"
+  },
+  {
+    "firstSeen": 1788477047819,
+    "name": "Black Purse",
+    "id": "1395",
+    "image": "/img/items/blackpurse.png"
+  },
+  {
+    "firstSeen": 1788477047825,
+    "name": "Orange Butterfly",
+    "id": "1396",
+    "image": "/img/items/orangebutterfly.png"
+  },
+  {
+    "firstSeen": 1788477047803,
+    "name": "Yellow Butterfly",
+    "id": "1397",
+    "image": "/img/items/yellowbutterfly.png"
+  },
+  {
+    "firstSeen": 1788477047959,
+    "name": "Yellow Bag",
+    "id": "1398",
+    "image": "/img/items/yellowbag.png"
+  },
+  {
+    "firstSeen": 1788477047903,
+    "name": "Brown Bag",
+    "id": "1399",
+    "image": "/img/items/brownbag.png"
   },
   {
     "name": "Eggplant Seeds",
@@ -636,6 +2675,66 @@
     "fleaMarket": 15
   },
   {
+    "firstSeen": 1788477047827,
+    "name": "Black Bag",
+    "id": "1400",
+    "image": "/img/items/blackbag.png"
+  },
+  {
+    "firstSeen": 1788477047805,
+    "name": "Black Cloak",
+    "id": "1401",
+    "image": "/img/items/blackcloak.png"
+  },
+  {
+    "firstSeen": 1788477047817,
+    "name": "White Cloak",
+    "id": "1402",
+    "image": "/img/items/whitecloak.png"
+  },
+  {
+    "firstSeen": 1788477047823,
+    "name": "Brown Cloak",
+    "id": "1403",
+    "image": "/img/items/browncloak.png"
+  },
+  {
+    "firstSeen": 1788477048027,
+    "name": "Black Shield",
+    "id": "1404",
+    "image": "/img/items/blackshield.png"
+  },
+  {
+    "firstSeen": 1788477047997,
+    "name": "Yellow Scarf",
+    "id": "1405",
+    "image": "/img/items/yellowscarf.png"
+  },
+  {
+    "firstSeen": 1788477048008,
+    "name": "Orange Scarf",
+    "id": "1406",
+    "image": "/img/items/orangescarf.png"
+  },
+  {
+    "firstSeen": 1788477047940,
+    "name": "Black Scarf",
+    "id": "1407",
+    "image": "/img/items/blackscarf.png"
+  },
+  {
+    "firstSeen": 1788477047909,
+    "name": "White Scarf",
+    "id": "1408",
+    "image": "/img/items/whitescarf.png"
+  },
+  {
+    "firstSeen": 1788477047885,
+    "name": "Cloth",
+    "id": "1409",
+    "image": "/img/items/690.png"
+  },
+  {
     "name": "Shrimp",
     "id": "141",
     "image": "/img/items/7844.PNG",
@@ -646,12 +2745,132 @@
     "mastery": true
   },
   {
+    "firstSeen": 1788477047874,
+    "name": "Blue Shirt",
+    "id": "1410",
+    "image": "/img/items/blueshirt.png"
+  },
+  {
+    "firstSeen": 1788477047818,
+    "name": "Red Shirt",
+    "id": "1411",
+    "image": "/img/items/redshirt.png"
+  },
+  {
+    "firstSeen": 1788477047843,
+    "name": "Green Shirt",
+    "id": "1412",
+    "image": "/img/items/greenshirt.png"
+  },
+  {
+    "firstSeen": 1788477047872,
+    "name": "Orange Shirt",
+    "id": "1413",
+    "image": "/img/items/orangeshirt.png"
+  },
+  {
+    "firstSeen": 1788477047908,
+    "name": "Yellow Shirt",
+    "id": "1414",
+    "image": "/img/items/yellowshirt.png"
+  },
+  {
+    "firstSeen": 1788477047903,
+    "name": "Purple Shirt",
+    "id": "1415",
+    "image": "/img/items/purpleshirt.png"
+  },
+  {
+    "firstSeen": 1788477047867,
+    "name": "White Shirt",
+    "id": "1416",
+    "image": "/img/items/whiteshirt.png"
+  },
+  {
+    "firstSeen": 1788477047829,
+    "name": "Black Shirt",
+    "id": "1417",
+    "image": "/img/items/blackshirt.png"
+  },
+  {
+    "firstSeen": 1788477048021,
+    "name": "Tie Dye Scarf",
+    "id": "1418",
+    "image": "/img/items/tiedyescarf2.png"
+  },
+  {
+    "firstSeen": 1788477047867,
+    "name": "Propeller Hat",
+    "id": "1419",
+    "image": "/img/items/Propeller_hat.png"
+  },
+  {
     "name": "Unpolished Emerald",
     "id": "142",
     "image": "/img/items/uemerald.png",
     "sellPrice": 750,
     "xp": 250,
     "rarity": "Common"
+  },
+  {
+    "firstSeen": 1788477047965,
+    "name": "Basic Pillow",
+    "id": "1420",
+    "image": "/img/items/basicpillow.png"
+  },
+  {
+    "firstSeen": 1788477047921,
+    "name": "Bamboo Fence",
+    "id": "1421",
+    "image": "/img/items/bamboofence.png"
+  },
+  {
+    "firstSeen": 1788477047925,
+    "name": "Bamboo Trellis",
+    "id": "1422",
+    "image": "/img/items/bambootrellis.png"
+  },
+  {
+    "firstSeen": 1788477047926,
+    "name": "Bamboo Chair",
+    "id": "1423",
+    "image": "/img/items/bamboochair.png"
+  },
+  {
+    "firstSeen": 1788477047980,
+    "name": "Glowing Lantern",
+    "id": "1424",
+    "image": "/img/items/glowinglantern.png"
+  },
+  {
+    "firstSeen": 1788477048017,
+    "name": "Strong Paste",
+    "id": "1425",
+    "image": "/img/items/strongpaste.png"
+  },
+  {
+    "firstSeen": 1788477048022,
+    "name": "Gold Ruby Ring",
+    "id": "1426",
+    "image": "/img/items/goldrubyring.png"
+  },
+  {
+    "firstSeen": 1788477048010,
+    "name": "Gold Lemon Quartz Ring",
+    "id": "1427",
+    "image": "/img/items/goldlqring.png"
+  },
+  {
+    "firstSeen": 1788477048011,
+    "name": "Gold Aquamarine Ring",
+    "id": "1428",
+    "image": "/img/items/goldaqring.png"
+  },
+  {
+    "firstSeen": 1788477048022,
+    "name": "Gold Emerald Ring",
+    "id": "1429",
+    "image": "/img/items/goldemring.png"
   },
   {
     "name": "Emerald",
@@ -676,6 +2895,66 @@
     "craftPrice": 100
   },
   {
+    "firstSeen": 1788477048024,
+    "name": "Gold Garnet Ring",
+    "id": "1430",
+    "image": "/img/items/goldgarnetring.png"
+  },
+  {
+    "firstSeen": 1788477048012,
+    "name": "Gold Diamond Ring",
+    "id": "1431",
+    "image": "/img/items/864.png"
+  },
+  {
+    "firstSeen": 1788477048048,
+    "name": "Tin Scraps",
+    "id": "1432",
+    "image": "/img/items/tinscraps.png"
+  },
+  {
+    "firstSeen": 1788477047906,
+    "name": "Bamboo Rope",
+    "id": "1433",
+    "image": "/img/items/rope_t_01.png"
+  },
+  {
+    "firstSeen": 1788477048011,
+    "name": "Gold Jade Ring",
+    "id": "1434",
+    "image": "/img/items/goldjadering2.png"
+  },
+  {
+    "firstSeen": 1788477048038,
+    "name": "Bamboo Flute",
+    "id": "1435",
+    "image": "/img/items/bambooflute.png"
+  },
+  {
+    "firstSeen": 1788477047898,
+    "name": "Veggie Juice",
+    "id": "1437",
+    "image": "/img/items/8879.png"
+  },
+  {
+    "firstSeen": 1788477048302,
+    "name": "Goostav Bobblehead",
+    "id": "1438",
+    "image": "/img/items/bobble_goostav.png"
+  },
+  {
+    "firstSeen": 1788477076402,
+    "name": "Fancy Pillow",
+    "id": "1439",
+    "image": "/img/items/Fancy_pillow.png",
+    "openable": false,
+    "sellPrice": 400000,
+    "craftPrice": 70000,
+    "xp": 70000,
+    "rarity": "Uncommon",
+    "mastery": true
+  },
+  {
     "name": "Carbon Sphere",
     "id": "144",
     "image": "/img/items/carbonsphere.png",
@@ -683,6 +2962,54 @@
     "xp": 200,
     "givable": true,
     "rarity": "Common"
+  },
+  {
+    "firstSeen": 1788477047977,
+    "name": "Oak Table",
+    "id": "1440",
+    "image": "/img/items/Oak_table_.png"
+  },
+  {
+    "firstSeen": 1788477047957,
+    "name": "Gazebo",
+    "id": "1441",
+    "image": "/img/items/Gazebo.png"
+  },
+  {
+    "firstSeen": 1788477048038,
+    "name": "Crown of Clover",
+    "id": "1442",
+    "image": "/img/items/Crownofclover.png"
+  },
+  {
+    "firstSeen": 1788477047673,
+    "name": "PHR Voucher",
+    "id": "1443",
+    "image": "/img/items/viri_3437.png"
+  },
+  {
+    "firstSeen": 1788477047572,
+    "name": "Bear Buddy Doll",
+    "id": "1446",
+    "image": "/img/items/Bear_buddy.png"
+  },
+  {
+    "firstSeen": 1788477048303,
+    "name": "Podcast Swear Jar",
+    "id": "1447",
+    "image": "/img/items/Podcast_Swear_jar.png"
+  },
+  {
+    "firstSeen": 1788477048191,
+    "name": "Picnic Basket 01",
+    "id": "1448",
+    "image": "/img/items/picnicbasket.png"
+  },
+  {
+    "firstSeen": 1788477047630,
+    "name": "Piece 12",
+    "id": "1449",
+    "image": "/img/items/piece12.png?1"
   },
   {
     "name": "Steel",
@@ -709,6 +3036,36 @@
       }
     ],
     "craftPrice": 250
+  },
+  {
+    "firstSeen": 1788477047810,
+    "name": "Sugar Cube",
+    "id": "1452",
+    "image": "/img/items/sugar_cube.png"
+  },
+  {
+    "firstSeen": 1788477047647,
+    "name": "Slime Buddy Doll",
+    "id": "1453",
+    "image": "/img/items/slimebuddydoll2.png"
+  },
+  {
+    "firstSeen": 1788477048304,
+    "name": "Slime Bucket",
+    "id": "1454",
+    "image": "/img/items/bucket_of_slime.png"
+  },
+  {
+    "firstSeen": 1788477047685,
+    "name": "Shamrock Milk",
+    "id": "1457",
+    "image": "/img/items/shamrock_milk.png"
+  },
+  {
+    "firstSeen": 1788477047600,
+    "name": "Toga Buddy Doll",
+    "id": "1459",
+    "image": "/img/items/toga_buddy_doll.png"
   },
   {
     "name": "Emerald Ring",
@@ -738,6 +3095,60 @@
     "craftPrice": 300
   },
   {
+    "firstSeen": 1788477048305,
+    "name": "Chapiku",
+    "id": "1460",
+    "image": "/img/items/Stripeymouse.png"
+  },
+  {
+    "firstSeen": 1788477048146,
+    "name": "Lucky Corn",
+    "id": "1461",
+    "image": "/img/items/lucky_corn.png"
+  },
+  {
+    "firstSeen": 1788477048144,
+    "name": "Lucky Potato",
+    "id": "1462",
+    "image": "/img/items/lucky_potato.png"
+  },
+  {
+    "firstSeen": 1788477047688,
+    "name": "Lucky Eggs",
+    "id": "1463",
+    "image": "/img/items/lucky_eggs.png"
+  },
+  {
+    "firstSeen": 1788477047651,
+    "name": "Lucky Bacon",
+    "id": "1464",
+    "image": "/img/items/lucky_bacon.png"
+  },
+  {
+    "firstSeen": 1788477048075,
+    "name": "Lucky Trout",
+    "id": "1465",
+    "image": "/img/items/lucky_trout.png"
+  },
+  {
+    "firstSeen": 1788477047659,
+    "name": "Sun Egg",
+    "id": "1467",
+    "image": "/img/items/egg_sun.png"
+  },
+  {
+    "firstSeen": 1788477047618,
+    "name": "Moon Egg",
+    "id": "1468",
+    "image": "/img/items/egg_moon.png"
+  },
+  {
+    "firstSeen": 1788477047637,
+    "name": "Planet Egg",
+    "id": "1469",
+    "image": "/img/items/egg_planet.png"
+  },
+  {
     "name": "Runestone 01",
     "id": "147",
     "image": "/img/items/rs1.png",
@@ -745,6 +3156,42 @@
     "xp": 1000,
     "rarity": "Uncommon",
     "mastery": true
+  },
+  {
+    "firstSeen": 1788477047619,
+    "name": "Black Hole Egg",
+    "id": "1470",
+    "image": "/img/items/egg_black_hold.png"
+  },
+  {
+    "firstSeen": 1788477047573,
+    "name": "Asteroid Egg",
+    "id": "1471",
+    "image": "/img/items/egg_asteroid.png"
+  },
+  {
+    "firstSeen": 1788477047620,
+    "name": "Comet Egg",
+    "id": "1472",
+    "image": "/img/items/egg_comet.png"
+  },
+  {
+    "firstSeen": 1788477047644,
+    "name": "Nebula Egg",
+    "id": "1473",
+    "image": "/img/items/egg_nebula.png"
+  },
+  {
+    "firstSeen": 1788477048306,
+    "name": "Astro Fuzzy Chick",
+    "id": "1478",
+    "image": "/img/items/astro_fuzzy_chick.png"
+  },
+  {
+    "firstSeen": 1788477048317,
+    "name": "Alien Fuzzy Chick",
+    "id": "1479",
+    "image": "/img/items/alien_fuzzy_chick.png"
   },
   {
     "name": "Runestone 02",
@@ -756,6 +3203,42 @@
     "mastery": true
   },
   {
+    "firstSeen": 1788477048077,
+    "name": "Fuzzy Trout",
+    "id": "1480",
+    "image": "/img/items/fuzzy_trout.png"
+  },
+  {
+    "firstSeen": 1788477047689,
+    "name": "Day Off Voucher",
+    "id": "1481",
+    "image": "/img/items/chorecoupon.png"
+  },
+  {
+    "firstSeen": 1788477048306,
+    "name": "Farmiversary Trophy 01",
+    "id": "1483",
+    "image": "/img/items/year1.png"
+  },
+  {
+    "firstSeen": 1788477048307,
+    "name": "Farmiversary Trophy 02",
+    "id": "1484",
+    "image": "/img/items/year2.png"
+  },
+  {
+    "firstSeen": 1788477048308,
+    "name": "Farmiversary Trophy 03",
+    "id": "1485",
+    "image": "/img/items/year3.png"
+  },
+  {
+    "firstSeen": 1788477048188,
+    "name": "Galactic Egg Basket",
+    "id": "1489",
+    "image": "/img/items/space_egg_chest.png"
+  },
+  {
     "name": "Runestone 03",
     "id": "149",
     "image": "/img/items/rs3.png",
@@ -763,6 +3246,36 @@
     "xp": 3000,
     "rarity": "Uncommon",
     "mastery": true
+  },
+  {
+    "firstSeen": 1788477047645,
+    "name": "Gloorp",
+    "id": "1492",
+    "image": "/img/items/Gloorpp.png"
+  },
+  {
+    "firstSeen": 1788477047750,
+    "name": "Monarch Butterfly",
+    "id": "1495",
+    "image": "/img/items/mbutterfly.png"
+  },
+  {
+    "firstSeen": 1788477047483,
+    "name": "Red Velvet Cake",
+    "id": "1496",
+    "image": "/img/items/Red_velvet.png"
+  },
+  {
+    "firstSeen": 1788477047573,
+    "name": "Thomas's Red Velvet Cake",
+    "id": "1497",
+    "image": "/img/items/recipe.png"
+  },
+  {
+    "firstSeen": 1788477048249,
+    "name": "5th Birthday Card",
+    "id": "1498",
+    "image": "/img/items/5th_card.png"
   },
   {
     "name": "Tomato",
@@ -784,6 +3297,30 @@
     "mastery": true
   },
   {
+    "firstSeen": 1788477047989,
+    "name": "Valve",
+    "id": "1506",
+    "image": "/img/items/9330.png"
+  },
+  {
+    "firstSeen": 1788477047574,
+    "name": "Crowbar",
+    "id": "1507",
+    "image": "/img/items/crowbar.png"
+  },
+  {
+    "firstSeen": 1788477047575,
+    "name": "Cake",
+    "id": "1508",
+    "image": "/img/items/the_cake_is_a_lie.png"
+  },
+  {
+    "firstSeen": 1788477048308,
+    "name": "Buddy Box",
+    "id": "1509",
+    "image": "/img/items/Buddycube.png"
+  },
+  {
     "name": "Runestone 05",
     "id": "151",
     "image": "/img/items/rs5.png",
@@ -791,6 +3328,54 @@
     "xp": 5000,
     "rarity": "Uncommon",
     "mastery": true
+  },
+  {
+    "firstSeen": 1788477048050,
+    "name": "Pine Shavings",
+    "id": "1510",
+    "image": "/img/items/wood_shavings.png"
+  },
+  {
+    "firstSeen": 1788477047884,
+    "name": "Wood Planer",
+    "id": "1511",
+    "image": "/img/items/planer.png"
+  },
+  {
+    "firstSeen": 1788477048309,
+    "name": "Goldfish Prize",
+    "id": "1512",
+    "image": "/img/items/Goldfishbag_item.png"
+  },
+  {
+    "firstSeen": 1788477047601,
+    "name": "Safety Headgear",
+    "id": "1514",
+    "image": "/img/items/safety_helmet.png"
+  },
+  {
+    "firstSeen": 1788477047776,
+    "name": "Hornworm",
+    "id": "1515",
+    "image": "/img/items/hornworm.png"
+  },
+  {
+    "firstSeen": 1788477047880,
+    "name": "Unicorn Shell",
+    "id": "1516",
+    "image": "/img/items/afk_8798.png"
+  },
+  {
+    "firstSeen": 1788477048085,
+    "name": "Twilight Squid",
+    "id": "1517",
+    "image": "/img/items/afk_8776.png"
+  },
+  {
+    "firstSeen": 1788477048310,
+    "name": "Rocket Trophy",
+    "id": "1519",
+    "image": "/img/items/Bottlerockettrophy.png"
   },
   {
     "name": "Runestone 06",
@@ -802,6 +3387,72 @@
     "mastery": true
   },
   {
+    "firstSeen": 1788477048311,
+    "name": "Roomba’s Locket",
+    "id": "1520",
+    "image": "/img/items/Locket_real_chick.png"
+  },
+  {
+    "firstSeen": 1788477047601,
+    "name": "Robot Chicken",
+    "id": "1521",
+    "image": "/img/items/Robot_chicken.png"
+  },
+  {
+    "firstSeen": 1788477047621,
+    "name": "Temple Voucher",
+    "id": "1522",
+    "image": "/img/items/7901.png"
+  },
+  {
+    "firstSeen": 1788477047676,
+    "name": "Spring Cave Charm",
+    "id": "1523",
+    "image": "/img/items/Spring_cave_Charm.png",
+    "openable": false,
+    "rarity": "Very Rare"
+  },
+  {
+    "firstSeen": 1788477047639,
+    "name": "Highland Hollow Charm",
+    "id": "1524",
+    "image": "/img/items/Fairy_crystal_charm.png",
+    "openable": false,
+    "rarity": "Very Rare"
+  },
+  {
+    "firstSeen": 1788477047640,
+    "name": "Sol Grotto Charm",
+    "id": "1525",
+    "image": "/img/items/Stone_shell_charm.png",
+    "openable": false,
+    "rarity": "Very Rare"
+  },
+  {
+    "firstSeen": 1788477047576,
+    "name": "Ember Caverns Charm",
+    "id": "1526",
+    "image": "/img/items/Ancient_snail_charm.png",
+    "openable": false,
+    "rarity": "Very Rare"
+  },
+  {
+    "firstSeen": 1788477047576,
+    "name": "Fenrir's Den Charm",
+    "id": "1527",
+    "image": "/img/items/Jadeite_fenrir.png",
+    "openable": false,
+    "rarity": "Very Rare"
+  },
+  {
+    "firstSeen": 1788480184399,
+    "id": "1528",
+    "name": "Mossrock Mine Charm",
+    "image": "/img/items/Marimo_charm.png",
+    "openable": false,
+    "rarity": "Very Rare"
+  },
+  {
     "name": "Runestone 07",
     "id": "153",
     "image": "/img/items/rs7.png",
@@ -811,12 +3462,156 @@
     "mastery": true
   },
   {
+    "firstSeen": 1788477047577,
+    "name": "Glyph Sphere",
+    "id": "1532",
+    "image": "/img/items/glyphsphere.png"
+  },
+  {
+    "firstSeen": 1788477047752,
+    "name": "Wooden Footstool",
+    "id": "1534",
+    "image": "/img/items/321.png"
+  },
+  {
+    "firstSeen": 1788477048312,
+    "name": "Veggie Juice Instruction Sheet",
+    "id": "1535",
+    "image": "/img/items/6978.png"
+  },
+  {
+    "firstSeen": 1788477047752,
+    "name": "Heavy Pickaxe",
+    "id": "1537",
+    "image": "/img/items/heavypickaxe.png",
+    "openable": false,
+    "sellPrice": 12000,
+    "craftPrice": 2500,
+    "xp": 5000,
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788477047578,
+    "name": "Croissant",
+    "id": "1538",
+    "image": "/img/items/4757.png"
+  },
+  {
     "name": "Runestone 08",
     "id": "154",
     "image": "/img/items/rs8.png",
     "sellPrice": 8000,
     "xp": 8000,
     "rarity": "Uncommon",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788477047726,
+    "name": "Gravicite",
+    "id": "1540",
+    "image": "/img/items/Mossy_jade.png",
+    "openable": false,
+    "sellPrice": 1750,
+    "xp": 600,
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788477047712,
+    "name": "Unpolished Peridot",
+    "id": "1541",
+    "image": "/img/items/unperidot.png",
+    "openable": false,
+    "sellPrice": 3500,
+    "xp": 850,
+    "rarity": "Common",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788477047701,
+    "name": "Veinshard",
+    "id": "1542",
+    "image": "/img/items/Mossy_shard.png",
+    "openable": false,
+    "sellPrice": 6000,
+    "xp": 850,
+    "rarity": "Common",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788477047690,
+    "name": "Mossroom",
+    "id": "1543",
+    "image": "/img/items/Mossy_shroom.png",
+    "openable": false,
+    "sellPrice": 9500,
+    "xp": 325,
+    "rarity": "Common",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788477047708,
+    "name": "Green Gel",
+    "id": "1544",
+    "image": "/img/items/greengel.png",
+    "openable": false,
+    "sellPrice": 15000,
+    "xp": 600,
+    "rarity": "Common",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788477047686,
+    "name": "Mossy Cog",
+    "id": "1545",
+    "image": "/img/items/Mossy_gear_.png",
+    "openable": false,
+    "sellPrice": 35000,
+    "xp": 600,
+    "rarity": "Common",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788477047648,
+    "name": "Mossy Bone",
+    "id": "1546",
+    "image": "/img/items/Mossy_bone.png",
+    "openable": false,
+    "sellPrice": 19000,
+    "xp": 900,
+    "rarity": "Common",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788477047696,
+    "name": "Gravity Orb",
+    "id": "1547",
+    "image": "/img/items/Mossy_orb.png",
+    "openable": false,
+    "sellPrice": 50000,
+    "xp": 1000,
+    "rarity": "Common",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788480152920,
+    "id": "1548",
+    "name": "Ancient Rune",
+    "image": "/img/items/Mossy_rune.png",
+    "openable": false,
+    "sellPrice": 75000,
+    "xp": 1500,
+    "rarity": "Common",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788480176747,
+    "id": "1549",
+    "name": "Fossilized Viper",
+    "image": "/img/items/Mossy_fossil.png",
+    "openable": false,
+    "sellPrice": 100000,
+    "xp": 2500,
+    "rarity": "Common",
     "mastery": true
   },
   {
@@ -829,12 +3624,229 @@
     "mastery": true
   },
   {
+    "firstSeen": 1788480195439,
+    "id": "1550",
+    "name": "Ruined Ether Hammer",
+    "image": "/img/items/Mossy_jackhammer.png",
+    "openable": false,
+    "sellPrice": 250000,
+    "xp": 5000,
+    "rarity": "Common",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788480165548,
+    "id": "1551",
+    "name": "Ruined Ether Drill",
+    "image": "/img/items/Mossy_drill.png",
+    "openable": false,
+    "sellPrice": 400000,
+    "xp": 7500,
+    "rarity": "Uncommon",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788477076444,
+    "name": "Peridot",
+    "id": "1552",
+    "image": "/img/items/peridot.png"
+  },
+  {
+    "firstSeen": 1788477076393,
+    "name": "Condensed Gravicite",
+    "id": "1553",
+    "image": "/img/items/greenstone2.png"
+  },
+  {
+    "firstSeen": 1788477048211,
+    "name": "Mining Bag 01",
+    "id": "1554",
+    "image": "/img/items/miningbag01.png",
+    "openable": true,
+    "rarity": "Uncommon",
+    "opensTo": [
+      {
+        "name": "Pickaxe"
+      },
+      {
+        "name": "Bone Pickaxe"
+      }
+    ]
+  },
+  {
+    "firstSeen": 1788477048210,
+    "name": "Mining Bag 02",
+    "id": "1555",
+    "image": "/img/items/miningbag02.png",
+    "openable": true,
+    "rarity": "Uncommon",
+    "opensTo": [
+      {
+        "name": "Bone Pickaxe"
+      },
+      {
+        "name": "Crystal Pickaxe"
+      },
+      {
+        "name": "Explosive"
+      }
+    ]
+  },
+  {
+    "firstSeen": 1788477048203,
+    "name": "Mining Bag 03",
+    "id": "1556",
+    "image": "/img/items/miningbag03.png",
+    "openable": true,
+    "rarity": "Uncommon",
+    "opensTo": [
+      {
+        "name": "Crystal Pickaxe"
+      },
+      {
+        "name": "Sturdy Pickaxe"
+      },
+      {
+        "name": "Explosive"
+      }
+    ]
+  },
+  {
+    "firstSeen": 1788477048201,
+    "name": "Mining Bag 04",
+    "id": "1557",
+    "image": "/img/items/miningbag04.png",
+    "openable": true,
+    "rarity": "Uncommon",
+    "opensTo": [
+      {
+        "name": "Sturdy Pickaxe"
+      },
+      {
+        "name": "Steel Pickaxe"
+      },
+      {
+        "name": "Bomb"
+      }
+    ]
+  },
+  {
+    "firstSeen": 1788477048197,
+    "name": "Mining Bag 05",
+    "id": "1558",
+    "image": "/img/items/miningbag05.png"
+  },
+  {
     "name": "Runestone 10",
     "id": "156",
     "image": "/img/items/rs10.png",
     "sellPrice": 10000,
     "xp": 10000,
     "rarity": "Rare",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788477048313,
+    "name": "Cid's Spare Pickaxe",
+    "id": "1561",
+    "image": "/img/items/cidpickaxe.png",
+    "openable": false,
+    "rarity": "Super Rare"
+  },
+  {
+    "firstSeen": 1788477047761,
+    "name": "Cave Paste",
+    "id": "1562",
+    "image": "/img/items/cavepaste.png",
+    "openable": false,
+    "sellPrice": 25000,
+    "craftPrice": 500,
+    "xp": 2500,
+    "rarity": "Common",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788477047750,
+    "name": "Aquacite Ring",
+    "id": "1563",
+    "image": "/img/items/aquacitering.png",
+    "openable": false,
+    "sellPrice": 24700,
+    "craftPrice": 7000,
+    "xp": 3400,
+    "rarity": "Common",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788477047757,
+    "name": "Refined Esperium",
+    "id": "1564",
+    "image": "/img/items/esperiumore.png",
+    "openable": false,
+    "sellPrice": 2000,
+    "craftPrice": 500,
+    "xp": 1950,
+    "rarity": "Common",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788477047730,
+    "name": "Calmine Composite",
+    "id": "1565",
+    "image": "/img/items/calaminecomposite.png",
+    "openable": false,
+    "sellPrice": 6000,
+    "craftPrice": 4000,
+    "xp": 1500,
+    "rarity": "Common",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788477047638,
+    "name": "Calmine Lotion",
+    "id": "1566",
+    "image": "/img/items/caliminelotion.png",
+    "openable": false,
+    "sellPrice": 145000,
+    "craftPrice": 32000,
+    "xp": 1500,
+    "rarity": "Common",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788477047876,
+    "name": "Acid Extract",
+    "id": "1567",
+    "image": "/img/items/acid.png",
+    "openable": false,
+    "sellPrice": 80000,
+    "craftPrice": 6000,
+    "xp": 8000,
+    "rarity": "Common",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788477047714,
+    "name": "Esperium Band",
+    "id": "1568",
+    "image": "/img/items/esperiumband.png",
+    "openable": false,
+    "sellPrice": 6000,
+    "craftPrice": 1000,
+    "xp": 1500,
+    "rarity": "Common",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788477047745,
+    "name": "Green Halite Ring",
+    "id": "1569",
+    "image": "/img/items/greenhalitering.png",
+    "openable": false,
+    "sellPrice": 12000,
+    "craftPrice": 2000,
+    "xp": 1500,
+    "rarity": "Common",
     "mastery": true
   },
   {
@@ -850,11 +3862,143 @@
     "mastery": true
   },
   {
+    "firstSeen": 1788477048171,
+    "name": "Mega Pine Seeds",
+    "id": "1570",
+    "image": "/img/items/seeds_mpine.png"
+  },
+  {
+    "firstSeen": 1788477047670,
+    "name": "Fairy Ring",
+    "id": "1571",
+    "image": "/img/items/fairyring.png",
+    "openable": false,
+    "sellPrice": 64000,
+    "craftPrice": 6400,
+    "xp": 6400,
+    "rarity": "Common",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788477047740,
+    "name": "Refined Plum Ore",
+    "id": "1572",
+    "image": "/img/items/plumirondeposit.png",
+    "openable": false,
+    "sellPrice": 14000,
+    "craftPrice": 1200,
+    "xp": 800,
+    "rarity": "Common",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788477047732,
+    "name": "Ocean Stone",
+    "id": "1573",
+    "image": "/img/items/oceanstone.png"
+  },
+  {
+    "firstSeen": 1788477047660,
+    "name": "Deep Ocean Ring",
+    "id": "1574",
+    "image": "/img/items/deepoceanring.png"
+  },
+  {
+    "firstSeen": 1788477047747,
+    "name": "Plum Iron",
+    "id": "1575",
+    "image": "/img/items/plumiron.png"
+  },
+  {
+    "firstSeen": 1788477047756,
+    "name": "Ancient Bird Fossil",
+    "id": "1576",
+    "image": "/img/items/ancientbirdfossil.png"
+  },
+  {
+    "firstSeen": 1788477047662,
+    "name": "Ancient Ram Fossil",
+    "id": "1577",
+    "image": "/img/items/ancientramfossil.png"
+  },
+  {
+    "firstSeen": 1788477047897,
+    "name": "Pestle and Mortar",
+    "id": "1578",
+    "image": "/img/items/pestleandmortar.png"
+  },
+  {
+    "firstSeen": 1788477047945,
+    "name": "Chisel",
+    "id": "1579",
+    "image": "/img/items/chisel.png"
+  },
+  {
     "name": "Gold Pepper Seeds",
     "id": "158",
     "image": "/img/items/seeds_gpeppers.png",
     "xp": 53,
     "growthTime": 60
+  },
+  {
+    "firstSeen": 1788477047663,
+    "name": "Bright Lantern",
+    "id": "1580",
+    "image": "/img/items/brightlantern.png"
+  },
+  {
+    "firstSeen": 1788477047674,
+    "name": "Sunstone Ring",
+    "id": "1581",
+    "image": "/img/items/sunstonering.png"
+  },
+  {
+    "firstSeen": 1788477047755,
+    "name": "Quench",
+    "id": "1582",
+    "image": "/img/items/quench.png"
+  },
+  {
+    "firstSeen": 1788477047729,
+    "name": "Shining Earrings",
+    "id": "1583",
+    "image": "/img/items/shiningearrings.png"
+  },
+  {
+    "firstSeen": 1788477047671,
+    "name": "Strong Wire",
+    "id": "1584",
+    "image": "/img/items/strongwire.png"
+  },
+  {
+    "firstSeen": 1788477076472,
+    "name": "Stained Glass Art",
+    "id": "1585",
+    "image": "/img/items/stainedglassart.png"
+  },
+  {
+    "firstSeen": 1788477047665,
+    "name": "Flarite Ring",
+    "id": "1586",
+    "image": "/img/items/flaritering.png"
+  },
+  {
+    "firstSeen": 1788477047765,
+    "name": "Ornate Flarite Ring",
+    "id": "1587",
+    "image": "/img/items/ornateflaritering.png"
+  },
+  {
+    "firstSeen": 1788477047700,
+    "name": "Reforged Sword",
+    "id": "1588",
+    "image": "/img/items/reforgedsword.png"
+  },
+  {
+    "firstSeen": 1788477047753,
+    "name": "Embershard Staff",
+    "id": "1589",
+    "image": "/img/items/embershardstaff.png"
   },
   {
     "name": "Gold Carrot",
@@ -867,6 +4011,141 @@
     "growthTime": 120,
     "mastery": true,
     "fleaMarket": 2
+  },
+  {
+    "firstSeen": 1788477047758,
+    "name": "Potion of Clarity",
+    "id": "1590",
+    "image": "/img/items/potionofclarity.png"
+  },
+  {
+    "firstSeen": 1788477047602,
+    "name": "Embershard Ring",
+    "id": "1591",
+    "image": "/img/items/embershardring.png",
+    "openable": false,
+    "sellPrice": 49000,
+    "craftPrice": 8400,
+    "xp": 5700,
+    "rarity": "Common",
+    "mastery": true
+  },
+  {
+    "firstSeen": 1788480298480,
+    "id": "1592",
+    "name": "Cid’s Minecart 01",
+    "image": "/img/items/cidsminecart.png",
+    "openable": true,
+    "givable": true,
+    "rarity": "Very Rare",
+    "opensTo": [
+      {
+        "id": "379",
+        "name": "Apple Cider",
+        "quantity": 125
+      },
+      {
+        "id": "830",
+        "name": "Apple Pie",
+        "quantity": 1
+      },
+      {
+        "id": "1107",
+        "name": "Apple Turnover",
+        "quantity": 3
+      },
+      {
+        "id": "1285",
+        "name": "Bar of Silver",
+        "quantity": 1
+      },
+      {
+        "id": "789",
+        "name": "Bomb",
+        "quantity": 25
+      },
+      {
+        "id": "1594",
+        "name": "Detonator",
+        "quantity": 1
+      },
+      {
+        "id": "106",
+        "name": "Explosive",
+        "quantity": 100
+      },
+      {
+        "id": "368",
+        "name": "Lantern",
+        "quantity": 200
+      },
+      {
+        "id": "1554",
+        "name": "Mining Bag 01",
+        "quantity": 5
+      },
+      {
+        "id": "1555",
+        "name": "Mining Bag 02",
+        "quantity": 5
+      },
+      {
+        "id": "1556",
+        "name": "Mining Bag 03",
+        "quantity": 5
+      },
+      {
+        "id": "827",
+        "name": "Raffle Ticket",
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "firstSeen": 1788480297705,
+    "id": "1593",
+    "name": "Cid Buddy Doll",
+    "image": "/img/items/Cid_buddy_doll.png",
+    "openable": false,
+    "rarity": "Very Rare"
+  },
+  {
+    "firstSeen": 1788480298002,
+    "id": "1594",
+    "name": "Detonator",
+    "image": "/img/items/viri_4128.png",
+    "openable": false,
+    "rarity": "Very Rare"
+  },
+  {
+    "firstSeen": 1788477047759,
+    "name": "Green Halite Earrings",
+    "id": "1595",
+    "image": "/img/items/greenhaliteearrings.png"
+  },
+  {
+    "firstSeen": 1788477047710,
+    "name": "Calmine Statue",
+    "id": "1596",
+    "image": "/img/items/calminestatue.png"
+  },
+  {
+    "firstSeen": 1788477047759,
+    "name": "Horn Powder",
+    "id": "1597",
+    "image": "/img/items/extractofhorn.png"
+  },
+  {
+    "firstSeen": 1788477047755,
+    "name": "Plum Goblet",
+    "id": "1598",
+    "image": "/img/items/plumgoblet.png"
+  },
+  {
+    "firstSeen": 1788477047881,
+    "name": "Joyful Ring",
+    "id": "1599",
+    "image": "/img/items/joyfulring.png"
   },
   {
     "name": "Tomato Seeds",
@@ -887,6 +4166,48 @@
     "image": "/img/items/seeds_gcarrots.png",
     "xp": 56,
     "growthTime": 120
+  },
+  {
+    "firstSeen": 1788477047641,
+    "name": "Ornate Anvil",
+    "id": "1600",
+    "image": "/img/items/ornateanvil.png"
+  },
+  {
+    "firstSeen": 1788477047871,
+    "name": "Redbrook Patch",
+    "id": "1601",
+    "image": "/img/items/redbrookpatch.png"
+  },
+  {
+    "firstSeen": 1788477047904,
+    "name": "Garnet Walking Stick",
+    "id": "1602",
+    "image": "/img/items/garnetwalkingstick.png"
+  },
+  {
+    "firstSeen": 1788477047915,
+    "name": "Pinecone Bird Feeder",
+    "id": "1603",
+    "image": "/img/items/pineconebirdfeeder.png"
+  },
+  {
+    "firstSeen": 1788477047914,
+    "name": "Tin Goblet",
+    "id": "1604",
+    "image": "/img/items/tingoblet.png"
+  },
+  {
+    "firstSeen": 1788477047723,
+    "name": "Ancient Pickaxe",
+    "id": "1605",
+    "image": "/img/items/ancient_pickaxe.png?2"
+  },
+  {
+    "firstSeen": 1788477047743,
+    "name": "Sparkle Dust",
+    "id": "1607",
+    "image": "/img/items/Sparkle_dust.png"
   },
   {
     "name": "Gold Peas",
@@ -1272,7 +4593,7 @@
   {
     "name": "3-leaf Clover",
     "id": "187",
-    "image": "/img/items/8250.png",
+    "image": "/img/items/8250.PNG",
     "sellPrice": 50,
     "xp": 50,
     "givable": true,
@@ -1569,7 +4890,7 @@
   {
     "name": "Octopus",
     "id": "207",
-    "image": "/img/items/8802.png",
+    "image": "/img/items/octopus.png",
     "sellPrice": 3000,
     "xp": 3000,
     "rarity": "Uncommon",
@@ -1871,7 +5192,7 @@
   {
     "name": "Bucket",
     "id": "23",
-    "image": "/img/items/8263.PNG",
+    "image": "/img/items/8263.PNG?1",
     "sellPrice": 90,
     "xp": 250,
     "givable": true,
@@ -2217,7 +5538,7 @@
   {
     "name": "Honey",
     "id": "250",
-    "image": "/img/items/6678.png",
+    "image": "/img/items/jarofhoney.png",
     "sellPrice": 5000,
     "xp": 5000,
     "fleaMarket": 5
@@ -2547,7 +5868,7 @@
   {
     "name": "Lima Bean",
     "id": "279",
-    "image": "/img/items/lima.png?1",
+    "image": "/img/items/limabean.png?1",
     "sellPrice": 100000,
     "xp": 5000,
     "rarity": "Super Rare"
@@ -2741,7 +6062,9 @@
     "image": "/img/items/buddystone.png",
     "sellPrice": 1750,
     "xp": 1750,
-    "rarity": "Super Rare"
+    "rarity": "Super Rare",
+    "openable": false,
+    "givable": false
   },
   {
     "name": "Wooden Sword",
@@ -3432,7 +6755,7 @@
   {
     "name": "Large Chest 01",
     "id": "346",
-    "image": "/img/items/8572.png",
+    "image": "/img/items/LC-1.png?1",
     "xp": 1,
     "rarity": "Very Rare"
   },
@@ -3577,7 +6900,7 @@
     "rarity": "Common"
   },
   {
-    "name": "Wood Plank",
+    "name": "Wooden Plank",
     "id": "36",
     "image": "/img/items/5733.PNG",
     "xp": 50,
@@ -3616,7 +6939,7 @@
   {
     "name": "Spider",
     "id": "362",
-    "image": "/img/items/spider_t_01.png",
+    "image": "/img/items/spiderbutcutererr.png",
     "sellPrice": 250,
     "xp": 1750,
     "givable": true,
@@ -3626,7 +6949,7 @@
   {
     "name": "Large Chest 02",
     "id": "363",
-    "image": "/img/items/8572.png",
+    "image": "/img/items/LC-2.png?1",
     "xp": 1,
     "rarity": "Very Rare"
   },
@@ -4846,7 +8169,7 @@
   {
     "name": "Hops",
     "id": "46",
-    "image": "/img/items/8248.PNG",
+    "image": "/img/items/8248n.png",
     "sellPrice": 240,
     "xp": 200,
     "givable": true,
@@ -4983,8 +8306,8 @@
   {
     "firstSeen": 1643629599476,
     "id": "472",
-    "name": "Treasure Map 01",
-    "image": "/img/items/treasuremap.png",
+    "name": "Star's Treasure Map",
+    "image": "/img/items/starmap1.png",
     "xp": 2500,
     "rarity": "Rare"
   },
@@ -5182,7 +8505,7 @@
     "firstSeen": 1644110847499,
     "id": "488",
     "name": "Valentines Card",
-    "image": "/img/items/l_07_t.PNG",
+    "image": "/img/items/card_valentines.png",
     "event": true,
     "xp": 500,
     "rarity": "Uncommon",
@@ -6086,7 +9409,8 @@
     "name": "Pirate Hook",
     "image": "/img/items/pirates_38_t.png",
     "sellPrice": 100000,
-    "rarity": "Super Rare"
+    "rarity": "Super Rare",
+    "openable": false
   },
   {
     "firstSeen": 1652992968566,
@@ -6100,7 +9424,7 @@
     "firstSeen": 1652992971364,
     "id": "573",
     "name": "Large Chest 03",
-    "image": "/img/items/8572.png",
+    "image": "/img/items/LC-3.png?1",
     "xp": 1,
     "rarity": "Super Rare"
   },
@@ -6191,7 +9515,8 @@
     "image": "/img/items/pirates_47_t.png",
     "xp": 2500,
     "rarity": "Uncommon",
-    "fleaMarket": 50
+    "fleaMarket": 50,
+    "openable": false
   },
   {
     "firstSeen": 1652993002242,
@@ -6684,7 +10009,7 @@
     "firstSeen": 1660155502952,
     "name": "Schoolbook",
     "id": "617",
-    "image": "/img/items/book_t_01.PNG",
+    "image": "/img/items/book_t_01.png?1",
     "event": true,
     "xp": 2500,
     "rarity": "Super Rare"
@@ -7010,7 +10335,7 @@
   {
     "firstSeen": 1663704031810,
     "id": "643",
-    "name": "Cat’s Meow",
+    "name": "Cat's Meow",
     "image": "/img/items/fishessensestew.png",
     "xp": 600,
     "givable": true,
@@ -7055,14 +10380,14 @@
   {
     "firstSeen": 1663704085225,
     "id": "648",
-    "name": "Thomas’s Cat’s Meow",
+    "name": "Thomas's Cat's Meow",
     "image": "/img/items/recipe.png",
     "rarity": "Very Rare"
   },
   {
     "firstSeen": 1663704088828,
     "id": "649",
-    "name": "Jill’s Quandary Chowder",
+    "name": "Jill's Quandary Chowder",
     "image": "/img/items/recipe.png",
     "rarity": "Very Rare"
   },
@@ -7079,21 +10404,21 @@
   {
     "firstSeen": 1663704092473,
     "id": "650",
-    "name": "Vincent’s Sea Pincher Special",
+    "name": "Vincent's Sea Pincher Special",
     "image": "/img/items/recipe.png",
     "rarity": "Very Rare"
   },
   {
     "firstSeen": 1663704095521,
     "id": "651",
-    "name": "Cecil’s Shrimp-a-Plenty",
+    "name": "Cecil's Shrimp-a-Plenty",
     "image": "/img/items/recipe.png",
     "rarity": "Very Rare"
   },
   {
     "firstSeen": 1663704098328,
     "id": "652",
-    "name": "Roomba’s Over The Moon",
+    "name": "Roomba's Over The Moon",
     "image": "/img/items/recipe.png",
     "rarity": "Very Rare"
   },
@@ -7153,7 +10478,7 @@
   {
     "firstSeen": 1664326772347,
     "id": "655",
-    "name": "Charles’s Neigh",
+    "name": "Charles's Neigh",
     "image": "/img/items/recipe.png",
     "rarity": "Very Rare"
   },
@@ -7435,7 +10760,7 @@
     "firstSeen": 1669751815917,
     "id": "674",
     "name": "Christmas Card",
-    "image": "/img/items/16_sm.png",
+    "image": "/img/items/card_christmas.png",
     "event": true,
     "xp": 1750,
     "givable": true,
@@ -8199,6 +11524,12 @@
     "rarity": "Very Rare"
   },
   {
+    "firstSeen": 1788477047983,
+    "name": "Frost Shield",
+    "id": "717",
+    "image": "/img/items/frostshield.png?1"
+  },
+  {
     "name": "Wooden Barrel",
     "id": "72",
     "image": "/img/items/5829.PNG",
@@ -8225,6 +11556,48 @@
     "craftPrice": 25
   },
   {
+    "firstSeen": 1788477047789,
+    "name": "Red Berry Pie",
+    "id": "723",
+    "image": "/img/items/pie1.png?1"
+  },
+  {
+    "firstSeen": 1788477047503,
+    "name": "Rosalie's Red Berry Pie",
+    "id": "724",
+    "image": "/img/items/recipe.png"
+  },
+  {
+    "firstSeen": 1788477048002,
+    "name": "Pie Pan",
+    "id": "725",
+    "image": "/img/items/piepan.png"
+  },
+  {
+    "firstSeen": 1788477047793,
+    "name": "Concord Grape Pie",
+    "id": "726",
+    "image": "/img/items/grapepie.png"
+  },
+  {
+    "firstSeen": 1788477047505,
+    "name": "Rosalie's Concord Grape Pie",
+    "id": "727",
+    "image": "/img/items/recipe.png"
+  },
+  {
+    "firstSeen": 1788477047506,
+    "name": "King Cake",
+    "id": "728",
+    "image": "/img/items/king_cake_new.png"
+  },
+  {
+    "firstSeen": 1788477048174,
+    "name": "Spring Seeds",
+    "id": "729",
+    "image": "/img/items/seeds_spring.png?1"
+  },
+  {
     "name": "Purple Parchment",
     "id": "73",
     "image": "/img/items/5755.PNG",
@@ -8240,6 +11613,66 @@
       }
     ],
     "craftPrice": 2
+  },
+  {
+    "firstSeen": 1788477047878,
+    "name": "Yellow Flowers",
+    "id": "730",
+    "image": "/img/items/yflowers.png"
+  },
+  {
+    "firstSeen": 1788477047833,
+    "name": "Red Flowers",
+    "id": "731",
+    "image": "/img/items/rflowers.png"
+  },
+  {
+    "firstSeen": 1788477047824,
+    "name": "Blue Flowers",
+    "id": "732",
+    "image": "/img/items/bflowers.png"
+  },
+  {
+    "firstSeen": 1788477047895,
+    "name": "White Flowers",
+    "id": "733",
+    "image": "/img/items/wflowers.png"
+  },
+  {
+    "firstSeen": 1788477047901,
+    "name": "Orange Flowers",
+    "id": "734",
+    "image": "/img/items/oflowers.png"
+  },
+  {
+    "firstSeen": 1788477047642,
+    "name": "Peafowl Feather",
+    "id": "735",
+    "image": "/img/items/2599.png?1"
+  },
+  {
+    "firstSeen": 1788477047922,
+    "name": "Fancy Chair",
+    "id": "736",
+    "image": "/img/items/195.png"
+  },
+  {
+    "firstSeen": 1788477047918,
+    "name": "Fancy Pan Flute",
+    "id": "737",
+    "image": "/img/items/1240.png"
+  },
+  {
+    "firstSeen": 1788477048025,
+    "name": "Wooden Table",
+    "id": "738",
+    "image": "/img/items/3826.png"
+  },
+  {
+    "firstSeen": 1788477047692,
+    "name": "Buddy Doll",
+    "id": "739",
+    "image": "/img/items/buddydoll2.png"
   },
   {
     "name": "Green Parchment",
@@ -8259,6 +11692,54 @@
     "craftPrice": 2
   },
   {
+    "firstSeen": 1788477048172,
+    "name": "Mega Cotton Seeds",
+    "id": "741",
+    "image": "/img/items/seeds_mcotton.png?1"
+  },
+  {
+    "firstSeen": 1788477047784,
+    "name": "Bouquet of Flowers",
+    "id": "742",
+    "image": "/img/items/bouquet.png?1"
+  },
+  {
+    "firstSeen": 1788477047879,
+    "name": "Step Ladder",
+    "id": "743",
+    "image": "/img/items/211.png"
+  },
+  {
+    "firstSeen": 1788477048257,
+    "name": "Thank You Card",
+    "id": "745",
+    "image": "/img/items/card_thankyou.png"
+  },
+  {
+    "firstSeen": 1788477048251,
+    "name": "Congratulations Card",
+    "id": "746",
+    "image": "/img/items/card_congrats.png"
+  },
+  {
+    "firstSeen": 1788477048255,
+    "name": "Buddy Loves You Card",
+    "id": "747",
+    "image": "/img/items/card_buddylove.png"
+  },
+  {
+    "firstSeen": 1788477048250,
+    "name": "Good Luck Card",
+    "id": "748",
+    "image": "/img/items/card_goodluck.png"
+  },
+  {
+    "firstSeen": 1788477048256,
+    "name": "Clawed Card",
+    "id": "749",
+    "image": "/img/items/card_clawed.png"
+  },
+  {
     "name": "Mushroom Paste",
     "id": "75",
     "image": "/img/items/5691.png",
@@ -8274,6 +11755,60 @@
       }
     ],
     "craftPrice": 2
+  },
+  {
+    "firstSeen": 1788477048245,
+    "name": "Capy Birthday Card",
+    "id": "750",
+    "image": "/img/items/card_capybirthday.png"
+  },
+  {
+    "firstSeen": 1788477048264,
+    "name": "Buddy Cushion",
+    "id": "751",
+    "image": "/img/items/buddycushion.png"
+  },
+  {
+    "firstSeen": 1788477048208,
+    "name": "Egg Basket",
+    "id": "753",
+    "image": "/img/items/eggbasket.png"
+  },
+  {
+    "firstSeen": 1788477047966,
+    "name": "Potato Battery",
+    "id": "754",
+    "image": "/img/items/potatobattery.png"
+  },
+  {
+    "firstSeen": 1788477047487,
+    "name": "Hickory Omelette",
+    "id": "755",
+    "image": "/img/items/omelet1.png"
+  },
+  {
+    "firstSeen": 1788477047484,
+    "name": "Crunchy Omelette",
+    "id": "756",
+    "image": "/img/items/omelet2.png"
+  },
+  {
+    "firstSeen": 1788477047507,
+    "name": "Mariya's Hickory Omelette",
+    "id": "757",
+    "image": "/img/items/recipe.png"
+  },
+  {
+    "firstSeen": 1788477047507,
+    "name": "Mariya's Crunchy Omelette",
+    "id": "758",
+    "image": "/img/items/recipe.png"
+  },
+  {
+    "firstSeen": 1788477047998,
+    "name": "Steel Vise",
+    "id": "759",
+    "image": "/img/items/199.png"
   },
   {
     "name": "Unpolished Shimmer Stone",
@@ -8298,6 +11833,42 @@
     "craftPrice": 10
   },
   {
+    "firstSeen": 1788477047898,
+    "name": "Red Trunk",
+    "id": "760",
+    "image": "/img/items/1026.png"
+  },
+  {
+    "firstSeen": 1788477047727,
+    "name": "Borgen Buck",
+    "id": "761",
+    "image": "/img/items/borgenbuck.png"
+  },
+  {
+    "firstSeen": 1788477047739,
+    "name": "Joker",
+    "id": "762",
+    "image": "/img/items/joker.png"
+  },
+  {
+    "firstSeen": 1788477047508,
+    "name": "Piece 09",
+    "id": "765",
+    "image": "/img/items/piece09.png?1"
+  },
+  {
+    "firstSeen": 1788477048265,
+    "name": "VIP Card",
+    "id": "767",
+    "image": "/img/items/vipcard.png"
+  },
+  {
+    "firstSeen": 1788477048266,
+    "name": "Sturdy Saw",
+    "id": "768",
+    "image": "/img/items/318.png"
+  },
+  {
     "name": "Shimmer Stone",
     "id": "77",
     "image": "/img/items/5711.PNG",
@@ -8314,6 +11885,48 @@
       }
     ],
     "craftPrice": 5
+  },
+  {
+    "firstSeen": 1788477047605,
+    "name": "Piece 11",
+    "id": "770",
+    "image": "/img/items/piece11.png?1"
+  },
+  {
+    "firstSeen": 1788477048213,
+    "name": "Bag of Spring Seeds",
+    "id": "772",
+    "image": "/img/items/4497.png"
+  },
+  {
+    "firstSeen": 1788477047894,
+    "name": "Fancy Table",
+    "id": "774",
+    "image": "/img/items/193.png?1"
+  },
+  {
+    "firstSeen": 1788477048330,
+    "name": "Pair of Gold Boots",
+    "id": "775",
+    "image": "/img/items/gboots.png?2"
+  },
+  {
+    "firstSeen": 1788477047722,
+    "name": "Ship in a Bottle",
+    "id": "776",
+    "image": "/img/items/shipinabottle.png?3"
+  },
+  {
+    "firstSeen": 1788477048266,
+    "name": "Rune Dice",
+    "id": "777",
+    "image": "/img/items/1931.png"
+  },
+  {
+    "firstSeen": 1788477047488,
+    "name": "Lemon Cream Pie",
+    "id": "778",
+    "image": "/img/items/lemoncreampie.png"
   },
   {
     "name": "Glass Orb",
@@ -8337,6 +11950,54 @@
       }
     ],
     "craftPrice": 10
+  },
+  {
+    "firstSeen": 1788477047509,
+    "name": "Baba Gec's Cabbage Stew",
+    "id": "780",
+    "image": "/img/items/recipe.png"
+  },
+  {
+    "firstSeen": 1788477047486,
+    "name": "Cabbage Stew",
+    "id": "781",
+    "image": "/img/items/greensoup.png"
+  },
+  {
+    "firstSeen": 1788477047606,
+    "name": "Pearl Berries",
+    "id": "782",
+    "image": "/img/items/4488.png"
+  },
+  {
+    "firstSeen": 1788477047642,
+    "name": "Honeycomb",
+    "id": "783",
+    "image": "/img/items/6311.png"
+  },
+  {
+    "firstSeen": 1788477048326,
+    "name": "Ramjoram's Mask",
+    "id": "785",
+    "image": "/img/items/ramjorammask.png"
+  },
+  {
+    "firstSeen": 1788477047939,
+    "name": "Acorn Butter",
+    "id": "787",
+    "image": "/img/items/Acorn_butter.png"
+  },
+  {
+    "firstSeen": 1788477047837,
+    "name": "Red Twine",
+    "id": "788",
+    "image": "/img/items/1621.png"
+  },
+  {
+    "firstSeen": 1788477047767,
+    "name": "Bomb",
+    "id": "789",
+    "image": "/img/items/bomb.png"
   },
   {
     "name": "Looking Glass",
@@ -8366,12 +12027,102 @@
     "craftPrice": 50
   },
   {
+    "firstSeen": 1788477047743,
+    "name": "Blue Star Stomper",
+    "id": "791",
+    "image": "/img/items/bluefireworks.png"
+  },
+  {
+    "firstSeen": 1788477047724,
+    "name": "Moonbreaker",
+    "id": "792",
+    "image": "/img/items/moonbreaker.png"
+  },
+  {
+    "firstSeen": 1788477048267,
+    "name": "Beach Ball",
+    "id": "793",
+    "image": "/img/items/beachball.png?1"
+  },
+  {
+    "firstSeen": 1788477047510,
+    "name": "Anchor",
+    "id": "794",
+    "image": "/img/items/pirates_45_t.png?1"
+  },
+  {
+    "firstSeen": 1788477047579,
+    "name": "Ship Wheel",
+    "id": "795",
+    "image": "/img/items/pirates_63_t.png?1"
+  },
+  {
+    "firstSeen": 1788477048318,
+    "name": "Prism Shell",
+    "id": "796",
+    "image": "/img/items/prismshell.png?1"
+  },
+  {
+    "firstSeen": 1788477047510,
+    "name": "Wizard's Second Favorite Feather",
+    "id": "798",
+    "image": "/img/items/magicfeather.png?1"
+  },
+  {
     "name": "Lemon Quartz",
     "id": "80",
     "image": "/img/items/5798.png",
     "sellPrice": 350,
     "xp": 100,
     "rarity": "Common"
+  },
+  {
+    "firstSeen": 1788477047934,
+    "name": "Amber Cane",
+    "id": "800",
+    "image": "/img/items/ambercane.png?2"
+  },
+  {
+    "firstSeen": 1788477048243,
+    "name": "We Know Card",
+    "id": "801",
+    "image": "/img/items/card_weknow.png?12"
+  },
+  {
+    "firstSeen": 1788477048250,
+    "name": "You Rock Card",
+    "id": "802",
+    "image": "/img/items/card_yourock.png"
+  },
+  {
+    "firstSeen": 1788477048147,
+    "name": "Yellow Watermelon",
+    "id": "803",
+    "image": "/img/items/yellowwatermelon.png"
+  },
+  {
+    "firstSeen": 1788477047711,
+    "name": "Apple Core",
+    "id": "805",
+    "image": "/img/items/8267.PNG"
+  },
+  {
+    "firstSeen": 1788477047580,
+    "name": "Desk Calendar",
+    "id": "806",
+    "image": "/img/items/calendar_t_01.png"
+  },
+  {
+    "firstSeen": 1788477047833,
+    "name": "Potted Flower",
+    "id": "808",
+    "image": "/img/items/plant_t_01.png"
+  },
+  {
+    "firstSeen": 1788477047511,
+    "name": "Toothbrush",
+    "id": "809",
+    "image": "/img/items/brush_t_01.png"
   },
   {
     "name": "White Parchment",
@@ -8388,6 +12139,54 @@
       }
     ],
     "craftPrice": 2
+  },
+  {
+    "firstSeen": 1788477047652,
+    "name": "Protein Bar",
+    "id": "810",
+    "image": "/img/items/chocolate_t_01.png"
+  },
+  {
+    "firstSeen": 1788477048316,
+    "name": "World Globe",
+    "id": "811",
+    "image": "/img/items/globe.png"
+  },
+  {
+    "firstSeen": 1788477048268,
+    "name": "Keeper Trapper",
+    "id": "812",
+    "image": "/img/items/buddytk.png"
+  },
+  {
+    "firstSeen": 1788477047511,
+    "name": "Sling Blade",
+    "id": "813",
+    "image": "/img/items/8974.png"
+  },
+  {
+    "firstSeen": 1788477047607,
+    "name": "Mark of Knowledge",
+    "id": "814",
+    "image": "/img/items/3966.png"
+  },
+  {
+    "firstSeen": 1788477047661,
+    "name": "Pizza Slice",
+    "id": "815",
+    "image": "/img/items/pizzaslice.png"
+  },
+  {
+    "firstSeen": 1788477047910,
+    "name": "Fancy Violin",
+    "id": "817",
+    "image": "/img/items/finp_618.png?1"
+  },
+  {
+    "firstSeen": 1788477047662,
+    "name": "Event Key",
+    "id": "819",
+    "image": "/img/items/eventkey.png"
   },
   {
     "name": "Green Diary",
@@ -8417,6 +12216,60 @@
     "craftPrice": 10
   },
   {
+    "firstSeen": 1788477047958,
+    "name": "Pickaxe",
+    "id": "820",
+    "image": "/img/items/6687.png?2"
+  },
+  {
+    "firstSeen": 1788477047874,
+    "name": "Esperium",
+    "id": "821",
+    "image": "/img/items/9446.png"
+  },
+  {
+    "firstSeen": 1788477047852,
+    "name": "Briomine",
+    "id": "822",
+    "image": "/img/items/9439.png"
+  },
+  {
+    "firstSeen": 1788477047831,
+    "name": "Calcifite",
+    "id": "823",
+    "image": "/img/items/9441.png"
+  },
+  {
+    "firstSeen": 1788477047835,
+    "name": "Green Halite",
+    "id": "824",
+    "image": "/img/items/9445.png"
+  },
+  {
+    "firstSeen": 1788477047996,
+    "name": "Sunflower Oil",
+    "id": "825",
+    "image": "/img/items/nj_985.png"
+  },
+  {
+    "firstSeen": 1788477048067,
+    "name": "Pine Board",
+    "id": "826",
+    "image": "/img/items/pineboard.png"
+  },
+  {
+    "firstSeen": 1788477047672,
+    "name": "Raffle Ticket",
+    "id": "827",
+    "image": "/img/items/raffleticket.png"
+  },
+  {
+    "firstSeen": 1788477047746,
+    "name": "Expired Ticket",
+    "id": "828",
+    "image": "/img/items/expiredticket.png"
+  },
+  {
     "name": "Purple Diary",
     "id": "83",
     "image": "/img/items/purplebook.png",
@@ -8443,6 +12296,48 @@
     "craftPrice": 10
   },
   {
+    "firstSeen": 1788477048245,
+    "name": "Get Well Soon Card",
+    "id": "831",
+    "image": "/img/items/card_gws.png"
+  },
+  {
+    "firstSeen": 1788477048269,
+    "name": "Harpoon",
+    "id": "832",
+    "image": "/img/items/harpoon.png"
+  },
+  {
+    "firstSeen": 1788477047512,
+    "name": "Green Apple",
+    "id": "834",
+    "image": "/img/items/greenapple.png"
+  },
+  {
+    "firstSeen": 1788477048270,
+    "name": "Gold Apple",
+    "id": "835",
+    "image": "/img/items/goldapple2.png"
+  },
+  {
+    "firstSeen": 1788477047953,
+    "name": "Linked Lantern",
+    "id": "837",
+    "image": "/img/items/mlantern.png?1"
+  },
+  {
+    "firstSeen": 1788477048271,
+    "name": "Music Box",
+    "id": "838",
+    "image": "/img/items/809.png"
+  },
+  {
+    "firstSeen": 1788477048272,
+    "name": "Notary Stamp",
+    "id": "839",
+    "image": "/img/items/stamper.png"
+  },
+  {
     "name": "Orange Juice",
     "id": "84",
     "image": "/img/items/orangejuice.png",
@@ -8466,12 +12361,114 @@
     "fleaMarket": 6
   },
   {
+    "firstSeen": 1788477047857,
+    "name": "Leather Belt",
+    "id": "841",
+    "image": "/img/items/finp_705.png"
+  },
+  {
+    "firstSeen": 1788477047838,
+    "name": "Nailed Board",
+    "id": "842",
+    "image": "/img/items/finp_607.png"
+  },
+  {
+    "firstSeen": 1788477048031,
+    "name": "Steel Buckle",
+    "id": "843",
+    "image": "/img/items/buckle.png?2"
+  },
+  {
+    "firstSeen": 1788477048032,
+    "name": "Awl",
+    "id": "844",
+    "image": "/img/items/2451.png"
+  },
+  {
+    "firstSeen": 1788477048029,
+    "name": "Wooden Button",
+    "id": "845",
+    "image": "/img/items/707.png"
+  },
+  {
+    "firstSeen": 1788477047864,
+    "name": "Corn Husk Doll",
+    "id": "846",
+    "image": "/img/items/856.png"
+  },
+  {
+    "firstSeen": 1788477047513,
+    "name": "Belt of Commander Uteer",
+    "id": "848",
+    "image": "/img/items/1679.png"
+  },
+  {
+    "firstSeen": 1788477047514,
+    "name": "Bessi Gan Belt",
+    "id": "849",
+    "image": "/img/items/5304.png"
+  },
+  {
     "name": "Milk",
     "id": "85",
     "image": "/img/items/8382.PNG",
     "sellPrice": 150,
     "xp": 5,
     "givable": true
+  },
+  {
+    "firstSeen": 1788477047515,
+    "name": "Velocity Belt",
+    "id": "850",
+    "image": "/img/items/5310.png"
+  },
+  {
+    "firstSeen": 1788477047515,
+    "name": "Belt of Truth",
+    "id": "851",
+    "image": "/img/items/5488.png"
+  },
+  {
+    "firstSeen": 1788477047779,
+    "name": "Jar of Pickles",
+    "id": "852",
+    "image": "/img/items/jarofpickles.png"
+  },
+  {
+    "firstSeen": 1788477047515,
+    "name": "Buddy's Old Pirate Belt",
+    "id": "853",
+    "image": "/img/items/2077.png"
+  },
+  {
+    "firstSeen": 1788477047827,
+    "name": "Bone Fragments",
+    "id": "854",
+    "image": "/img/items/873.PNG"
+  },
+  {
+    "firstSeen": 1788477047830,
+    "name": "Unpolished Aquacite",
+    "id": "855",
+    "image": "/img/items/1525.PNG"
+  },
+  {
+    "firstSeen": 1788477047821,
+    "name": "Cave Mushroom",
+    "id": "856",
+    "image": "/img/items/6475.png"
+  },
+  {
+    "firstSeen": 1788477047815,
+    "name": "Fossilized Print",
+    "id": "857",
+    "image": "/img/items/2125.PNG"
+  },
+  {
+    "firstSeen": 1788477047516,
+    "name": "Raptor Wrangler Belt",
+    "id": "859",
+    "image": "/img/items/rwb.png"
   },
   {
     "name": "Lemonade",
@@ -8498,6 +12495,36 @@
     "fleaMarket": 2
   },
   {
+    "firstSeen": 1788477048212,
+    "name": "Borgen Bag 01",
+    "id": "861",
+    "image": "/img/items/BagsAndBoxes_59_t.png"
+  },
+  {
+    "firstSeen": 1788477047476,
+    "name": "Spooky Pie",
+    "id": "862",
+    "image": "/img/items/923.png"
+  },
+  {
+    "firstSeen": 1788477048273,
+    "name": "VIP Platinum Card",
+    "id": "864",
+    "image": "/img/items/vipcard2.png"
+  },
+  {
+    "firstSeen": 1788477047630,
+    "name": "Spooky Doll",
+    "id": "865",
+    "image": "/img/items/3827.png"
+  },
+  {
+    "firstSeen": 1788477047517,
+    "name": "Utal's Sabre",
+    "id": "869",
+    "image": "/img/items/4902.png"
+  },
+  {
     "name": "Bone Fish",
     "id": "87",
     "image": "/img/items/7741.PNG",
@@ -8506,12 +12533,114 @@
     "mastery": true
   },
   {
+    "firstSeen": 1788477047769,
+    "name": "QED Cell",
+    "id": "870",
+    "image": "/img/items/battery_t_01.png"
+  },
+  {
+    "firstSeen": 1788477047782,
+    "name": "Captured Ghost",
+    "id": "871",
+    "image": "/img/ghost.png"
+  },
+  {
+    "firstSeen": 1788477047517,
+    "name": "QED Pack",
+    "id": "872",
+    "image": "/img/items/149.png"
+  },
+  {
+    "firstSeen": 1788477047519,
+    "name": "Cleaver",
+    "id": "873",
+    "image": "/img/items/876.png"
+  },
+  {
+    "firstSeen": 1788477048274,
+    "name": "Skull-in-the-box",
+    "id": "874",
+    "image": "/img/items/1584.png"
+  },
+  {
+    "firstSeen": 1788477048275,
+    "name": "Hessian's Axe",
+    "id": "875",
+    "image": "/img/items/hessaxe2.png"
+  },
+  {
+    "firstSeen": 1788477047520,
+    "name": "Horseman's Belt",
+    "id": "876",
+    "image": "/img/items/s_08.png"
+  },
+  {
+    "firstSeen": 1788477047667,
+    "name": "Calavera 01",
+    "id": "877",
+    "image": "/img/items/738.png"
+  },
+  {
+    "firstSeen": 1788477047667,
+    "name": "Calavera 02",
+    "id": "878",
+    "image": "/img/items/739.png"
+  },
+  {
+    "firstSeen": 1788477047985,
+    "name": "Bone Pickaxe",
+    "id": "879",
+    "image": "/img/items/boneaxe.png?2"
+  },
+  {
     "name": "Sunfish",
     "id": "88",
     "image": "/img/items/7802.png",
     "sellPrice": 50,
     "xp": 400,
     "mastery": true
+  },
+  {
+    "firstSeen": 1788477047608,
+    "name": "Thankful Notes",
+    "id": "881",
+    "image": "/img/items/2379.png"
+  },
+  {
+    "firstSeen": 1788477047580,
+    "name": "Bread",
+    "id": "882",
+    "image": "/img/items/7200.png"
+  },
+  {
+    "firstSeen": 1788477047721,
+    "name": "Cranberry Juice",
+    "id": "883",
+    "image": "/img/items/cranjuice2.png"
+  },
+  {
+    "firstSeen": 1788477048216,
+    "name": "Void Bag 01",
+    "id": "884",
+    "image": "/img/items/voidbag.png"
+  },
+  {
+    "firstSeen": 1788477047870,
+    "name": "Flying Machine",
+    "id": "885",
+    "image": "/img/items/147.png"
+  },
+  {
+    "firstSeen": 1788477048247,
+    "name": "Welcome Card",
+    "id": "888",
+    "image": "/img/items/card_welcome.png"
+  },
+  {
+    "firstSeen": 1788477047520,
+    "name": "Owl Feather",
+    "id": "889",
+    "image": "/img/items/owlfeather.png"
   },
   {
     "name": "Blue Catfish",
@@ -8523,6 +12652,60 @@
     "mastery": true
   },
   {
+    "firstSeen": 1788477047797,
+    "name": "Waffle",
+    "id": "891",
+    "image": "/img/items/1588.png"
+  },
+  {
+    "firstSeen": 1788477047522,
+    "name": "Circuit Breaker Belt",
+    "id": "892",
+    "image": "/img/items/973.png"
+  },
+  {
+    "firstSeen": 1788477047581,
+    "name": "Owl Guard Belt",
+    "id": "893",
+    "image": "/img/items/8708.png"
+  },
+  {
+    "firstSeen": 1788477048016,
+    "name": "Wooden Spear",
+    "id": "894",
+    "image": "/img/items/spear.png"
+  },
+  {
+    "firstSeen": 1788477048041,
+    "name": "Blue Parchment",
+    "id": "895",
+    "image": "/img/items/blueparchment.png"
+  },
+  {
+    "firstSeen": 1788477048023,
+    "name": "Blue Diary",
+    "id": "896",
+    "image": "/img/items/bluediary.png"
+  },
+  {
+    "firstSeen": 1788477047856,
+    "name": "Red Parchment",
+    "id": "897",
+    "image": "/img/items/redparchment.png"
+  },
+  {
+    "firstSeen": 1788477047930,
+    "name": "Red Diary",
+    "id": "898",
+    "image": "/img/items/reddiary.png"
+  },
+  {
+    "firstSeen": 1788477048042,
+    "name": "Blue Twine",
+    "id": "899",
+    "image": "/img/items/bluetwine.png"
+  },
+  {
     "name": "Blue Shell",
     "id": "90",
     "image": "/img/items/7875.PNG",
@@ -8530,6 +12713,66 @@
     "xp": 450,
     "rarity": "Common",
     "mastery": true
+  },
+  {
+    "firstSeen": 1788477048018,
+    "name": "Pitchfork",
+    "id": "900",
+    "image": "/img/items/8322.PNG?1"
+  },
+  {
+    "firstSeen": 1788477047693,
+    "name": "Aquacite",
+    "id": "901",
+    "image": "/img/items/aquacite.png"
+  },
+  {
+    "firstSeen": 1788477047808,
+    "name": "Bird Skull 01",
+    "id": "902",
+    "image": "/img/items/1138.png"
+  },
+  {
+    "firstSeen": 1788477047838,
+    "name": "Fairy Crystal",
+    "id": "903",
+    "image": "/img/items/fairycrystal.png"
+  },
+  {
+    "firstSeen": 1788477047825,
+    "name": "Lapis Lazuli",
+    "id": "904",
+    "image": "/img/items/lapislazuli.png"
+  },
+  {
+    "firstSeen": 1788477047801,
+    "name": "Bone 02",
+    "id": "905",
+    "image": "/img/items/bone2.png"
+  },
+  {
+    "firstSeen": 1788477047816,
+    "name": "Plum Ore",
+    "id": "906",
+    "image": "/img/items/plumore.png"
+  },
+  {
+    "firstSeen": 1788477047798,
+    "name": "Oceanite",
+    "id": "907",
+    "image": "/img/items/oceanite.png"
+  },
+  {
+    "firstSeen": 1788477047793,
+    "name": "Bone 03",
+    "id": "908",
+    "image": "/img/items/bone3.png"
+  },
+  {
+    "firstSeen": 1788477047790,
+    "name": "Purple Mushroom",
+    "id": "909",
+    "image": "/img/items/woodblewit.png"
   },
   {
     "name": "Acorn",
@@ -8540,6 +12783,66 @@
     "givable": true
   },
   {
+    "firstSeen": 1788477047780,
+    "name": "Fossilized Frog",
+    "id": "910",
+    "image": "/img/items/1896.PNG"
+  },
+  {
+    "firstSeen": 1788477047762,
+    "name": "Ram Skull 01",
+    "id": "911",
+    "image": "/img/items/1137.png"
+  },
+  {
+    "firstSeen": 1788477047828,
+    "name": "Pyredrop",
+    "id": "912",
+    "image": "/img/items/pyredrop.png"
+  },
+  {
+    "firstSeen": 1788477047815,
+    "name": "Sunstone",
+    "id": "913",
+    "image": "/img/items/sunstone.png"
+  },
+  {
+    "firstSeen": 1788477047789,
+    "name": "Fire Crystal",
+    "id": "914",
+    "image": "/img/items/firecrystal.png"
+  },
+  {
+    "firstSeen": 1788477047792,
+    "name": "Bone 04",
+    "id": "915",
+    "image": "/img/items/bone4.png"
+  },
+  {
+    "firstSeen": 1788477047772,
+    "name": "Orange Calcite",
+    "id": "916",
+    "image": "/img/items/3384.PNG"
+  },
+  {
+    "firstSeen": 1788477047761,
+    "name": "Red Mushrooms",
+    "id": "917",
+    "image": "/img/items/redmushrooms.png"
+  },
+  {
+    "firstSeen": 1788477047790,
+    "name": "Stone Shell",
+    "id": "918",
+    "image": "/img/items/stoneshell.png"
+  },
+  {
+    "firstSeen": 1788477047763,
+    "name": "Fossilized Leaf",
+    "id": "919",
+    "image": "/img/items/2836.png"
+  },
+  {
     "name": "Sweet Root",
     "id": "92",
     "image": "/img/items/5685.png",
@@ -8548,12 +12851,120 @@
     "rarity": "Common"
   },
   {
+    "firstSeen": 1788477047735,
+    "name": "Sol Orb",
+    "id": "920",
+    "image": "/img/items/solorb.png"
+  },
+  {
+    "firstSeen": 1788477047802,
+    "name": "Crystal Pickaxe",
+    "id": "921",
+    "image": "/img/items/crystalpickaxe.png"
+  },
+  {
+    "firstSeen": 1788477047840,
+    "name": "Sturdy Pickaxe",
+    "id": "922",
+    "image": "/img/items/sturdypickaxe.png"
+  },
+  {
+    "firstSeen": 1788477047822,
+    "name": "Embershard",
+    "id": "923",
+    "image": "/img/items/embershard.png"
+  },
+  {
+    "firstSeen": 1788477047804,
+    "name": "Magmastone",
+    "id": "924",
+    "image": "/img/items/magmastone.png"
+  },
+  {
+    "firstSeen": 1788477047778,
+    "name": "Bone 05",
+    "id": "925",
+    "image": "/img/items/bone5.png"
+  },
+  {
+    "firstSeen": 1788477047788,
+    "name": "Unpolished Flarite",
+    "id": "926",
+    "image": "/img/items/uflarite.png"
+  },
+  {
+    "firstSeen": 1788477047731,
+    "name": "Flarite",
+    "id": "927",
+    "image": "/img/items/flarite.png"
+  },
+  {
+    "firstSeen": 1788477047782,
+    "name": "Pitviper Tail",
+    "id": "928",
+    "image": "/img/items/9478.png"
+  },
+  {
+    "firstSeen": 1788477047749,
+    "name": "Brain Fungus",
+    "id": "929",
+    "image": "/img/items/brainfungus.png"
+  },
+  {
     "name": "Unpolished Ruby",
     "id": "93",
     "image": "/img/items/5992.png",
     "sellPrice": 500,
     "xp": 150,
     "rarity": "Common"
+  },
+  {
+    "firstSeen": 1788477048230,
+    "name": "Runestone 27",
+    "id": "930",
+    "image": "/img/items/rs27.png"
+  },
+  {
+    "firstSeen": 1788477047737,
+    "name": "Fossilized Shell",
+    "id": "931",
+    "image": "/img/items/1672.png"
+  },
+  {
+    "firstSeen": 1788477047744,
+    "name": "Broken Sword",
+    "id": "932",
+    "image": "/img/items/9489.png"
+  },
+  {
+    "firstSeen": 1788477047820,
+    "name": "Re'taw",
+    "id": "933",
+    "image": "/img/items/4696.png"
+  },
+  {
+    "firstSeen": 1788477047623,
+    "name": "Reindeer Headband",
+    "id": "934",
+    "image": "/img/items/horns.png"
+  },
+  {
+    "firstSeen": 1788477047750,
+    "name": "Snowflakes",
+    "id": "935",
+    "image": "/img/items/snowflakes.png"
+  },
+  {
+    "firstSeen": 1788477047624,
+    "name": "Frozen Fishing Net",
+    "id": "938",
+    "image": "/img/items/frozen_net.png"
+  },
+  {
+    "firstSeen": 1788477047675,
+    "name": "Frozen Large Net",
+    "id": "939",
+    "image": "/img/items/frozen_large_net.png"
   },
   {
     "name": "Ruby",
@@ -8578,6 +12989,66 @@
     "craftPrice": 50
   },
   {
+    "firstSeen": 1788477048193,
+    "name": "Bag of Snowballs",
+    "id": "940",
+    "image": "/img/items/bagofsnowballs.png"
+  },
+  {
+    "firstSeen": 1788477048275,
+    "name": "Snowball Cup",
+    "id": "941",
+    "image": "/img/items/snowcup.png"
+  },
+  {
+    "firstSeen": 1788477048083,
+    "name": "Frozen Squid",
+    "id": "942",
+    "image": "/img/items/frozen_squid.png"
+  },
+  {
+    "firstSeen": 1788477048117,
+    "name": "Frozen Sheepshead",
+    "id": "943",
+    "image": "/img/items/frozen_sheepshead.png"
+  },
+  {
+    "firstSeen": 1788477048115,
+    "name": "Frozen Spyfish",
+    "id": "944",
+    "image": "/img/items/frozen_spy.png"
+  },
+  {
+    "firstSeen": 1788477048114,
+    "name": "Frozen Manta Ray",
+    "id": "945",
+    "image": "/img/items/frozen_ray.png"
+  },
+  {
+    "firstSeen": 1788477048119,
+    "name": "Frozen Boot",
+    "id": "946",
+    "image": "/img/items/frozen_boot.png"
+  },
+  {
+    "firstSeen": 1788477048115,
+    "name": "Frozen Shell",
+    "id": "947",
+    "image": "/img/items/frozen_shell.png"
+  },
+  {
+    "firstSeen": 1788477048117,
+    "name": "Frozen Catfish",
+    "id": "948",
+    "image": "/img/items/frozen_catfish.png"
+  },
+  {
+    "firstSeen": 1788477048078,
+    "name": "Frozen Lobster",
+    "id": "949",
+    "image": "/img/items/frozen_lobster.png"
+  },
+  {
     "name": "Iron Ring",
     "id": "95",
     "image": "/img/items/ironring.png",
@@ -8598,6 +13069,66 @@
       }
     ],
     "craftPrice": 10
+  },
+  {
+    "firstSeen": 1788477048076,
+    "name": "Frozen Biter",
+    "id": "950",
+    "image": "/img/items/frozen_biter.png"
+  },
+  {
+    "firstSeen": 1788477048120,
+    "name": "Frozen Bones",
+    "id": "951",
+    "image": "/img/items/frozen_bones.png"
+  },
+  {
+    "firstSeen": 1788477048074,
+    "name": "Frozen Jelly",
+    "id": "952",
+    "image": "/img/items/frozen_jelly.png"
+  },
+  {
+    "firstSeen": 1788477048074,
+    "name": "Frozen Angelfish",
+    "id": "953",
+    "image": "/img/items/frozen_angelfish.png"
+  },
+  {
+    "firstSeen": 1788477048103,
+    "name": "Frozen Starfish",
+    "id": "954",
+    "image": "/img/items/frozen_starfish.png"
+  },
+  {
+    "firstSeen": 1788477048072,
+    "name": "Frozen Wheel",
+    "id": "955",
+    "image": "/img/items/frozen_wheel.png"
+  },
+  {
+    "firstSeen": 1788477048079,
+    "name": "Frozen Skull",
+    "id": "956",
+    "image": "/img/items/frozen_skull.png"
+  },
+  {
+    "firstSeen": 1788477048093,
+    "name": "Frozen Feather",
+    "id": "957",
+    "image": "/img/items/frozen_feather.png"
+  },
+  {
+    "firstSeen": 1788477048113,
+    "name": "Frozen Dagger",
+    "id": "958",
+    "image": "/img/items/frozen_dagger.png"
+  },
+  {
+    "firstSeen": 1788477048081,
+    "name": "Frozen Coin",
+    "id": "959",
+    "image": "/img/items/frozen_coin.png"
   },
   {
     "name": "Ruby Ring",
@@ -8627,12 +13158,108 @@
     "craftPrice": 100
   },
   {
+    "firstSeen": 1788477048102,
+    "name": "Frozen Crab Claw",
+    "id": "960",
+    "image": "/img/items/frozen_claw.png"
+  },
+  {
+    "firstSeen": 1788477048095,
+    "name": "Frozen Book",
+    "id": "961",
+    "image": "/img/items/frozen_book.png"
+  },
+  {
+    "firstSeen": 1788477048318,
+    "name": "Refined Corn Quartz",
+    "id": "962",
+    "image": "/img/items/cornquartz2.png"
+  },
+  {
+    "firstSeen": 1788477047522,
+    "name": "Frozen Bouquet",
+    "id": "964",
+    "image": "/img/items/frozen_flowers.png?1"
+  },
+  {
+    "firstSeen": 1788477048149,
+    "name": "Frozen Tomato",
+    "id": "965",
+    "image": "/img/items/frozen_tomato.png"
+  },
+  {
+    "firstSeen": 1788477048152,
+    "name": "Frozen Corn",
+    "id": "966",
+    "image": "/img/items/frozen_corn.png"
+  },
+  {
+    "firstSeen": 1788477048321,
+    "name": "Forcepath's Book of Quest Requirements",
+    "id": "967",
+    "image": "/img/items/7581.png"
+  },
+  {
+    "firstSeen": 1788477048329,
+    "name": "Coderanger's Missing Semicolon",
+    "id": "968",
+    "image": "/img/items/semi.png"
+  },
+  {
+    "firstSeen": 1788477048326,
+    "name": "Tenfoo's Lost Sock",
+    "id": "969",
+    "image": "/img/items/sock.png"
+  },
+  {
     "name": "Clam Shell",
     "id": "97",
     "image": "/img/items/7820.png",
     "sellPrice": 100,
     "xp": 525,
     "mastery": true
+  },
+  {
+    "firstSeen": 1788477048327,
+    "name": "Firestream's Magic Wire",
+    "id": "970",
+    "image": "/img/items/magicwire.png"
+  },
+  {
+    "firstSeen": 1788477047624,
+    "name": "Boltonic Love Potion 4",
+    "id": "973",
+    "image": "/img/items/lovepotion.png"
+  },
+  {
+    "firstSeen": 1788477048260,
+    "name": "Red Envelope",
+    "id": "974",
+    "image": "/img/items/redletter.png"
+  },
+  {
+    "firstSeen": 1788477048315,
+    "name": "Five Point Mace",
+    "id": "975",
+    "image": "/img/items/5046.png"
+  },
+  {
+    "firstSeen": 1788477048068,
+    "name": "Green Twine",
+    "id": "976",
+    "image": "/img/items/greentwine.png"
+  },
+  {
+    "firstSeen": 1788477048043,
+    "name": "Purple Twine",
+    "id": "977",
+    "image": "/img/items/purpletwine.png"
+  },
+  {
+    "firstSeen": 1788477048003,
+    "name": "Cannon",
+    "id": "978",
+    "image": "/img/items/1096.png"
   },
   {
     "name": "Starfish",
@@ -8644,6 +13271,48 @@
     "mastery": true
   },
   {
+    "firstSeen": 1788477047608,
+    "name": "Piece 03",
+    "id": "980",
+    "image": "/img/items/piece03.png?1"
+  },
+  {
+    "firstSeen": 1788477047735,
+    "name": "Piece 30",
+    "id": "983",
+    "image": "/img/items/piece30.png?1"
+  },
+  {
+    "firstSeen": 1788477047609,
+    "name": "Lucky Spiral Belt",
+    "id": "984",
+    "image": "/img/items/2059.png"
+  },
+  {
+    "firstSeen": 1788477047523,
+    "name": "Borgen's Dancing Belt",
+    "id": "985",
+    "image": "/img/items/2064.png"
+  },
+  {
+    "firstSeen": 1788477048323,
+    "name": "Boobun's Spray Bottle",
+    "id": "986",
+    "image": "/img/items/spraybottle.png"
+  },
+  {
+    "firstSeen": 1788477047610,
+    "name": "Shillelagh",
+    "id": "988",
+    "image": "/img/items/irishstick.png"
+  },
+  {
+    "firstSeen": 1788477048319,
+    "name": "Perfect Paint Palette",
+    "id": "989",
+    "image": "/img/items/palette.png"
+  },
+  {
     "name": "Clownfish",
     "id": "99",
     "image": "/img/items/7832.PNG",
@@ -8651,5 +13320,53 @@
     "xp": 600,
     "rarity": "Common",
     "mastery": true
+  },
+  {
+    "firstSeen": 1788477047524,
+    "name": "Certificate of Pepper Giving",
+    "id": "992",
+    "image": "/img/items/7896.png"
+  },
+  {
+    "firstSeen": 1788477047524,
+    "name": "Certificate of Carrot Giving",
+    "id": "993",
+    "image": "/img/items/7896-orange.png"
+  },
+  {
+    "firstSeen": 1788477047525,
+    "name": "Certificate of Pea Giving",
+    "id": "994",
+    "image": "/img/items/7896-green.png"
+  },
+  {
+    "firstSeen": 1788477047526,
+    "name": "Certificate of Cucumber Giving",
+    "id": "995",
+    "image": "/img/items/7896-green.png"
+  },
+  {
+    "firstSeen": 1788477047527,
+    "name": "Certificate of Eggplant Giving",
+    "id": "996",
+    "image": "/img/items/7896-purple.png"
+  },
+  {
+    "firstSeen": 1788477047528,
+    "name": "Certificate of Radish Giving",
+    "id": "997",
+    "image": "/img/items/7896.png"
+  },
+  {
+    "firstSeen": 1788477047528,
+    "name": "Certificate of Onion Giving",
+    "id": "998",
+    "image": "/img/items/7896-green.png"
+  },
+  {
+    "firstSeen": 1788477047529,
+    "name": "Certificate of Hops Giving",
+    "id": "999",
+    "image": "/img/items/7896-green.png"
   }
 ]

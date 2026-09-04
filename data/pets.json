@@ -19,8 +19,8 @@
       "Steel Wire"
     ],
     "id": "20",
-    "image": "/img/pets/arma.png",
-    "name": "Banded Armadillo"
+    "image": "/img/animals/pet20/default.png",
+    "name": "Armadillo"
   },
   {
     "level1Items": [
@@ -42,7 +42,7 @@
       "Runestone 19"
     ],
     "id": "16",
-    "image": "/img/pets/pet_dragon5.png",
+    "image": "/img/animals/pet16/default.png",
     "name": "Blue Dragon"
   },
   {
@@ -65,8 +65,8 @@
       "Grab Bag 05"
     ],
     "id": "15",
-    "image": "/img/pets/pet_bear.png",
-    "name": "Brown Bear"
+    "image": "/img/animals/pet15/default.png",
+    "name": "Bear"
   },
   {
     "level1Items": [
@@ -88,8 +88,31 @@
       "Runestone 20"
     ],
     "id": "9",
-    "image": "/img/pets/pet_spider1.png",
-    "name": "Cobalt Tarantula"
+    "image": "/img/animals/pet9/default.png",
+    "name": "Spider"
+  },
+  {
+    "level1Items": [
+      "Onion",
+      "Leek",
+      "Herbs",
+      "Cooking Pot"
+    ],
+    "level3Items": [
+      "Sweet Root",
+      "Flour",
+      "Salt",
+      "Pie Pan"
+    ],
+    "level6Items": [
+      "Peach",
+      "Corn Oil",
+      "Bone Broth",
+      "Butter"
+    ],
+    "id": "24",
+    "image": "/img/animals/pet24/default.png",
+    "name": "Critter"
   },
   {
     "level1Items": [
@@ -111,8 +134,8 @@
       "Ruby Coral"
     ],
     "id": "11",
-    "image": "/img/pets/pet_penguin.png",
-    "name": "Emperor Penguin"
+    "image": "/img/animals/pet11/default.png",
+    "name": "Penguin"
   },
   {
     "level1Items": [
@@ -134,8 +157,8 @@
       "Anglerfish"
     ],
     "id": "21",
-    "image": "/img/pets/pet_a_parrot.png",
-    "name": "Frigate Macaw"
+    "image": "/img/animals/pet21/default.png",
+    "name": "Bird"
   },
   {
     "level1Items": [
@@ -157,8 +180,8 @@
       "Torch Fish"
     ],
     "id": "8",
-    "image": "/img/pets/pet_hedgehog.png",
-    "name": "Gray Hedgehog"
+    "image": "/img/animals/pet8/default.png",
+    "name": "Hedgehog"
   },
   {
     "level1Items": [
@@ -180,8 +203,8 @@
       "Grab Bag 07"
     ],
     "id": "18",
-    "image": "/img/pets/capybara.png",
-    "name": "Greater Capybara"
+    "image": "/img/animals/pet18/default.png",
+    "name": "Capybara"
   },
   {
     "level1Items": [
@@ -203,7 +226,7 @@
       "Runestone 12"
     ],
     "id": "12",
-    "image": "/img/pets/pet_dragon1.png",
+    "image": "/img/animals/pet12/default.png",
     "name": "Green Dragon"
   },
   {
@@ -226,8 +249,31 @@
       "Skull Coin"
     ],
     "id": "6",
-    "image": "/img/pets/pet_snake.png",
-    "name": "Green Python"
+    "image": "/img/animals/pet6/default.png",
+    "name": "Snake"
+  },
+  {
+    "level1Items": [
+      "Purple Flower",
+      "3-leaf Clover",
+      "Yellow Flowers",
+      "Orange Flowers"
+    ],
+    "level3Items": [
+      "4-leaf Clover",
+      "Spring Seeds",
+      "Blue Flowers",
+      "White Flowers"
+    ],
+    "level6Items": [
+      "Oak",
+      "Red Flowers",
+      "Potted Flower",
+      "Honeysuckle"
+    ],
+    "id": "26",
+    "image": "/img/animals/pet26/default.png",
+    "name": "Hummingbird"
   },
   {
     "level1Items": [
@@ -249,8 +295,8 @@
       "Shinefish"
     ],
     "id": "1",
-    "image": "/img/pets/pet_cat1.png",
-    "name": "Magpie Cat"
+    "image": "/img/animals/pet1/default.png",
+    "name": "Cat"
   },
   {
     "level1Items": [
@@ -272,8 +318,31 @@
       "Redgill"
     ],
     "id": "7",
-    "image": "/img/pets/pet_Baboon.png",
-    "name": "Mandrill Baboon"
+    "image": "/img/animals/pet7/default.png",
+    "name": "Baboon"
+  },
+  {
+    "level1Items": [
+      "Esperium",
+      "Plum Ore",
+      "Mining Bag 01",
+      "Mining Bag 02"
+    ],
+    "level3Items": [
+      "Explosive",
+      "Green Halite",
+      "Mining Bag 03",
+      "Cave Paste"
+    ],
+    "level6Items": [
+      "Large Chest 02",
+      "Cid's Stone Ale",
+      "Flarite",
+      "Mining Bag 04"
+    ],
+    "id": "29",
+    "image": "/img/animals/pet29/default.png",
+    "name": "Miner"
   },
   {
     "level1Items": [
@@ -295,8 +364,31 @@
       "Diamond"
     ],
     "id": "17",
-    "image": "/img/pets/petrock.png",
+    "image": "/img/animals/pet17/default.png",
     "name": "Pet Rock"
+  },
+  {
+    "level1Items": [
+      "Frozen Peas",
+      "Frozen Catfish",
+      "Frozen Bones",
+      "Frozen Radish"
+    ],
+    "level3Items": [
+      "Frozen Squid",
+      "Frozen Sheepshead",
+      "Frozen Boot",
+      "Frozen Tomato"
+    ],
+    "level6Items": [
+      "Frozen Pine",
+      "Frozen Crab Claw",
+      "Frozen Corn",
+      "Cooked Fish"
+    ],
+    "id": "25",
+    "image": "/img/animals/pet25/default.png",
+    "name": "Polar Bear"
   },
   {
     "level1Items": [
@@ -318,7 +410,7 @@
       "Herbs"
     ],
     "id": "13",
-    "image": "/img/pets/pet_dragon4.png",
+    "image": "/img/animals/pet13/default.png",
     "name": "Red Dragon"
   },
   {
@@ -341,8 +433,8 @@
       "Skeleton Key"
     ],
     "id": "22",
-    "image": "/img/pets/pet_fox.png",
-    "name": "Red Fox"
+    "image": "/img/animals/pet22/default.png",
+    "name": "Fox"
   },
   {
     "level1Items": [
@@ -364,8 +456,8 @@
       "Gold Crab"
     ],
     "id": "3",
-    "image": "/img/pets/pet_squirrel.png",
-    "name": "Red Squirrel"
+    "image": "/img/animals/pet3/default.png",
+    "name": "Squirrel"
   },
   {
     "level1Items": [
@@ -387,8 +479,31 @@
       "Dragonfly"
     ],
     "id": "14",
-    "image": "/img/pets/lemur.png",
-    "name": "Ring-tailed Lemur"
+    "image": "/img/animals/pet14/default.png",
+    "name": "Lemur"
+  },
+  {
+    "level1Items": [
+      "Starfish",
+      "Shrimp",
+      "Red Starfish",
+      "Barnacle Shell"
+    ],
+    "level3Items": [
+      "Puffer",
+      "Ruby Coral",
+      "Purple Butterfly Fish",
+      "Sea Urchin"
+    ],
+    "level6Items": [
+      "Marlin",
+      "Large Clam Shell",
+      "Large Net",
+      "Ghost Jelly"
+    ],
+    "id": "27",
+    "image": "/img/animals/pet27/halloween.png",
+    "name": "Shark"
   },
   {
     "level1Items": [
@@ -410,8 +525,8 @@
       "Large Clam Shell"
     ],
     "id": "2",
-    "image": "/img/pets/pet_dog1.png",
-    "name": "Siberian Husky"
+    "image": "/img/animals/pet2/default.png",
+    "name": "Dog"
   },
   {
     "level1Items": [
@@ -433,8 +548,8 @@
       "Glacierstone"
     ],
     "id": "23",
-    "image": "/img/pets/pet_seal.png",
-    "name": "Spotted Seal"
+    "image": "/img/animals/pet23/default.png",
+    "name": "Seal"
   },
   {
     "level1Items": [
@@ -456,7 +571,7 @@
       "Mega Sunflower Seeds"
     ],
     "id": "19",
-    "image": "/img/pets/pet_onion_sm.png",
+    "image": "/img/animals/pet19/default.png",
     "name": "Strange Onion"
   },
   {
@@ -479,8 +594,8 @@
       "Goldfish"
     ],
     "id": "4",
-    "image": "/img/pets/pet_owl.png",
-    "name": "Tawny Owl"
+    "image": "/img/animals/pet4/default.png",
+    "name": "Owl"
   },
   {
     "level1Items": [
@@ -502,8 +617,8 @@
       "Gold Leaf"
     ],
     "id": "10",
-    "image": "/img/pets/pet_frog.png",
-    "name": "Tree Frog"
+    "image": "/img/animals/pet10/default.png",
+    "name": "Frog"
   },
   {
     "level1Items": [
@@ -525,7 +640,30 @@
       "Jade"
     ],
     "id": "5",
-    "image": "/img/pets/pet_boar.png",
-    "name": "Wild Boar"
+    "image": "/img/animals/pet5/default.png",
+    "name": "Swine"
+  },
+  {
+    "level1Items": [
+      "Feathers",
+      "Pumpkin",
+      "Bone",
+      "Bitten Apple"
+    ],
+    "level3Items": [
+      "Acorn",
+      "Straw",
+      "Blue Feathers",
+      "Fall Leaves"
+    ],
+    "level6Items": [
+      "Gold Leaf",
+      "Striped Feather",
+      "Green Rubee",
+      "Raw Meat"
+    ],
+    "id": "28",
+    "image": "/img/animals/pet28/default.png",
+    "name": "Wolf"
   }
 ]
